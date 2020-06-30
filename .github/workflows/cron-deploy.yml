@@ -30,6 +30,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_DIR: ./public
           PUBLISH_BRANCH: master 
           KEEP_FILES: true
