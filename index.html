@@ -13,10 +13,9 @@
   </form>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script language="javascript" type="text/javascript">
-
+    var trTags = "";
     $.getJSON("https://raw.githubusercontent.com/yudegoma/yudegoma.github.io/master/json/daily.json", function(data){
       // trタグが格納される配列
-      var trTags = "";
       $.each(data, function(key, val) {
         trTags = trTags + key + ", " + val + "\n";
         console.log(key + "," + val);
