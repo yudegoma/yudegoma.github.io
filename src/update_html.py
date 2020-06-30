@@ -10,7 +10,7 @@ def dict_to_html(rank: dict) -> str:
     return result
 
 
-path_w = '../index.html'
+path_w = 'index.html'
 html = """
 <html>
 <head>
