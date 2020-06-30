@@ -24,7 +24,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run script
       run: |
-        python update_json.py
+        python update_jsons.py
     - name: Deploy
       # gh-pages ブランチに成果物をデプロイする
       uses: peaceiris/actions-gh-pages@v3
