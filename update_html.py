@@ -1,7 +1,7 @@
 from utils import *
 
 
-def dict_to_html_str(rank: dict) -> str:
+def dict_to_html(rank: dict) -> str:
     i = 0
     result = ""
     for uuid, value in rank.items():
@@ -22,7 +22,7 @@ html = """
 <body>
 <main>
   <h1>ここになんか書く</h1>
-  <p>""" + dict_to_html_str(monthly_rank()) + """
+  <p>""" + dict_to_html(monthly_rank()) + """
 </p>
 </main>
 </body>
