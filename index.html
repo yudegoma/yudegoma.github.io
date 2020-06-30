@@ -9,11 +9,21 @@
 <body>
 <main>
   <h1>ここになんか書く</h1>
-  <img src="https://github.com/yudegoma/yudegoma.github.io/blob/master/images/daily_ranking.png?raw=true">
-</main>
+  <form name="test">
+    <textarea name="txt" rows="10" cols="40" readonly></textarea>
+  </form>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  <script language="javascript" type="text/javascript">
 
-<script>
-console.log('GitHub Pages Sample');
-</script>
+    url = './json/daily.json';      
+    $.getJSON(url, (data) => {
+      for (let i=0; i<data.length; i++){
+        document.test.txt.value += `userid=${data[i].id} username=${data[i].name}`;
+      }
+        
+    });
+  </script>
+  
+</main>
 </body>
 </html>
