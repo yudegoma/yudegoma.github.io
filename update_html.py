@@ -6,7 +6,7 @@ def dict_to_html_str(rank: dict) -> str:
     result = ""
     for uuid, value in rank.items():
         i += 1
-        result += "{}位: {:>16}: {}<br>".format(i, uuid_to_name(uuid), value)
+        result += "{:>3}位: {:>16}: {}<br>\n".format(i, uuid_to_name(uuid), value)
     return result
 
 
@@ -22,8 +22,7 @@ html = """
 <body>
 <main>
   <h1>ここになんか書く</h1>
-  <p>
-""" + dict_to_html_str(daily_rank()) + """
+  <p>""" + dict_to_html_str(monthly_rank()) + """
 </p>
 </main>
 </body>
@@ -32,4 +31,6 @@ html = """
 
 with open(path_w, mode='w') as f:
     f.write(html)
-    
+
+with open(path_w, mode='r') as f:
+    print(f.read())
