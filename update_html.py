@@ -22,7 +22,7 @@ html = """
 <body>
 <main>
   <h1>ここになんか書く</h1>
-  <p>""" + dict_to_html(monthly_rank()) + """
+  <p>""" + dict_to_html(daily_rank()) + """
 </p>
 </main>
 </body>
