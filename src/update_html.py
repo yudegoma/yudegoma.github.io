@@ -21,7 +21,7 @@ html = """
 
 <body>
 <main>
-  <h1>ここになんか書く</h1>
+  <h1>日間整地量</h1>
   <p>""" + dict_to_html(daily_rank()) + """
 </p>
 </main>
