@@ -1,5 +1,5 @@
 # yudegoma.github.io
 
-ウェブページ改造プルリク歓迎
+ウェブページ改造プルリク歓迎デス
 
 https://yudegoma.github.io/
