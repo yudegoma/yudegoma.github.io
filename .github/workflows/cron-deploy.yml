@@ -23,6 +23,7 @@ jobs:
     - name: Run script
       run: |
         python update_jsons.py
+        python update_html.py
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
