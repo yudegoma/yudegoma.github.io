@@ -15,9 +15,12 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script language="javascript" type="text/javascript">
 
-    url = './daily.json';      
+    url = './daily.json';
+    console.log(url);
+
     $.getJSON(url, (data) => {
       for (let i=0; i<data.length; i++){
+        console.log(`userid=${data[i]}`);
         document.test.txt.value += `userid=${data[i]}`;
       }
         
