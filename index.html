@@ -8,9 +8,7 @@
 <body>
 <main>
   <h1>ここになんか書く</h1>
-  <form name="test">
-    <textarea name="txt" rows="10" cols="40" readonly></textarea>
-  </form>
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script language="javascript" type="text/javascript">
     var trTags = "";
@@ -21,7 +19,7 @@
         console.log(key + "," + val);
       });
     });
-    document.test.txt.value = trTags;
+  document.write(trTags)
   </script>
   
 </main>
