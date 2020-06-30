@@ -15,7 +15,7 @@ html = """
 <html>
 <head>
 <meta charset="UTF-8">
-<title>非公式整地ランキング</title>
+<title>整地ランキング</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
 </head>
 
