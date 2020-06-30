@@ -1,1 +1,0 @@
-# yudegoma.github.io
