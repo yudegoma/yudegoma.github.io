@@ -6,27 +6,21 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
 </head>
 
-<body>
-<main>
-  <h1>ここになんか書く</h1>
-  <form name="test">
-    <textarea name="txt" rows="10" cols="40" readonly></textarea>
-  </form>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-  <script language="javascript" type="text/javascript">
-
-    url = 'https://raw.githubusercontent.com/yudegoma/yudegoma.github.io/master/json/daily.json';
-    console.log(url);
-
-    $.getJSON(url, (data) => {
-      for (let i=0; i<data.length; i++){
-        console.log(`userid=${data[i]}`);
-        document.test.txt.value += `userid=${data[i]}`;
-      }
-        
+<script src="../../js/jquery-1.12.2.min.js"></script>
+<script>
+$(function(){
+  $.getJSON("https://raw.githubusercontent.com/yudegoma/yudegoma.github.io/master/json/daily.json", function(data){
+    // trタグが格納される配列
+    var trTags = "";
+    $.each(data, function(key, val) {
+      trTags = trTags + "<tr><th>" + key + "</th><td>" + val + "</td></tr>\n";
     });
-  </script>
-  
-</main>
+    $("table").prepend(trTags);
+  });
+});
+</script>
+</head>
+<body>
+  <table border = "1"></table>
 </body>
 </html>
