@@ -22,10 +22,10 @@ jobs:
         pip install -r requirements.txt
     - name: Update json
       run: |
-        python update_jsons.py
+        python ./src/update_jsons.py
     - name: Update html
       run: |
-        python update_html.py
+        python ./src/update_html.py
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
