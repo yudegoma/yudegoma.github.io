@@ -1,13 +1,9 @@
 import requests
+import config
 from utils import *
 
 url = "https://w4.minecraftserver.jp/api/ranking"
 payload = {"type": "break", "duration": "daily"}    # 日間整地ランキング
-
-daily_path = ".json/daily.json"
-weekly_path = ".json/weekly.json"
-monthly_path = ".json/monthly.json"
-min30_path = ".json/min30.json"
 
 
 def update_ranking():
@@ -31,9 +27,9 @@ def update_ranking():
     diff_daily = sort_dict(sub_dict(result, b_daily_rank))  # 更新前との差分
 
     # 各ランキング更新
-    write_file(daily_path, sort_dict(result))
-    write_file(weekly_path, sort_dict(add_dict(weekly_rank(), diff_daily)))
-    write_file(monthly_path, sort_dict(add_dict(monthly_rank(), diff_daily)))
-    write_file(min30_path, diff_daily)
+    write_file(config.daily_path, sort_dict(result))
+    write_file(config.weekly_path, sort_dict(add_dict(weekly_rank(), diff_daily)))
+    write_file(config.monthly_path, sort_dict(add_dict(monthly_rank(), diff_daily)))
+    write_file(config.min30_path, diff_daily)
     
 update_ranking()
