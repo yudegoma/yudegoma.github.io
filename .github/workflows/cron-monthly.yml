@@ -17,7 +17,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
+    - name: Checkout
+      uses: actions/checkout@v2
     # Runs a single command using the runners shell
     - name: rm monthly
       run: /usr/bin/test $(date -d '+1 day' +%d) -eq 1 && rm ./json/monthly.json 
