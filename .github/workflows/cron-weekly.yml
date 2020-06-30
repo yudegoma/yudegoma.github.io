@@ -20,5 +20,5 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: rm weekly
-      run: rm weekly.json
+      run: rm ./json/weekly.json
 
