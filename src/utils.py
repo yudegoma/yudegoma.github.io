@@ -14,7 +14,7 @@ name_url = "https://api.mojang.com/users/profiles/minecraft/"
 
 def min30_rank() -> dict:
     """
-    :return: 日間整地量ランキング
+    :return: 30分整地量ランキング
     """
     return read_file(config.min30_path) if os.path.exists(config.min30_path) else {}
 
