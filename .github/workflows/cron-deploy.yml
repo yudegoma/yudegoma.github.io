@@ -2,7 +2,7 @@ name: cron-deploy
 
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '*/30 * * * *'
 
 jobs:
   build:
@@ -28,3 +28,5 @@ jobs:
       with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./json
+          publish_blanch: master
+          keep_files: true
