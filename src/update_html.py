@@ -47,7 +47,7 @@ daily_html = 'daily.html'
 weekly_html = 'weekly.html'
 monthly_html = 'monthly.html'
 
-create_html(min30_rank(), "30分整地量ランキング", min30_html)
-create_html(daily_rank(), "日間整地量ランキング", daily_html)
-create_html(weekly_rank(), "週間整地量ランキング", weekly_html)
-create_html(monthly_rank(), "月間整地量ランキング", monthly_html)
+create_html(dict_to_html(min30_rank()), "30分整地量ランキング", min30_html)
+create_html(dict_to_html(daily_rank()), "日間整地量ランキング", daily_html)
+create_html(dict_to_html(weekly_rank()), "週間整地量ランキング", weekly_html)
+create_html(dict_to_html(monthly_rank()), "月間整地量ランキング", monthly_html)
