@@ -9,7 +9,7 @@ def dict_to_html(rank: dict) -> str:
         result += "{:>3}位: {:>16}: {}<br>\n".format(i, uuid_to_name(uuid), value)
     return result
 
-def create_html(contents: str) -> str:
+def create_html(contents: str, title: str, path: str) -> str:
     html = """
     <html>
     <head>
@@ -20,16 +20,25 @@ def create_html(contents: str) -> str:
 
     <body>
     <main>
-      <h1>30分整地量</h1>
+      <h1> """ + title + """ </h1>
       <p>""" + contents + """
     </p>
     </main>
     </body>
     </html>
     """
+    
+    with open(path, mode='w') as f:
+        f.write(html)
+        
     return 
 
-min30 = 'index.html'
+min30_html = 'index.html'
+daily_html = 'daily.html'
+weekly_html = 'weekly.html'
+monthly_html = 'monthly.html'
 
-with open(min30, mode='w') as f:
-    f.write(create_html(dict_to_html(min30_rank())))
+create_html(min30_rank(), "30分整地量ランキング", min30_html)
+create_html(daily_rank(), "日間整地量ランキング", daily_html)
+create_html(weekly_rank(), "週間整地量ランキング", weekly_html)
+create_html(monthly_rank(), "月間整地量ランキング", monthly_html)
