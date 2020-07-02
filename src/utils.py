@@ -1,15 +1,9 @@
 #!/usr/bin/env python
-import requests
-from collections import OrderedDict, Counter
+from collections import OrderedDict
 import json
 import config
 import os
-
-
-# uuid取得用
-uuid_url = "https://api.mojang.com/user/profiles/"
-# mcid取得用
-name_url = "https://api.mojang.com/users/profiles/minecraft/"
+import copy
 
 
 def min30_rank() -> dict:
@@ -40,36 +34,12 @@ def monthly_rank() -> dict:
     return read_file(config.monthly_path) if os.path.exists(config.monthly_path) else {}
 
 
-def daily_reply(uuid: str) -> str:
-    """
-    :param uuid: 日間整地量を表示させたいuuid
-    :return: 指定uuidの日間整地量
-    """
-    return ("daily: " + str(daily_rank()[uuid]) + "\n") if uuid in daily_rank() else "daily: 0\n"
-
-
-def weekly_reply(uuid: str) -> str:
-    """
-    :param uuid: 週間整地量を表示させたいuuid
-    :return: 指定uuidの週間整地量
-    """
-    return ("weekly: " + str(weekly_rank()[uuid]) + "\n") if uuid in weekly_rank() else "weekly: 0\n"
-
-
-def monthly_reply(uuid: str) -> str:
-    """
-    :param uuid: 月間整地量を表示させたいuuid
-    :return: 指定uuidの月間整地量
-    """
-    return ("monthly: " + str(monthly_rank()[uuid]) + "\n") if uuid in monthly_rank() else "monthly: 0\n"
-
-
 def sort_dict(d: dict) -> dict:
     """
     :param d: ソート元
     :return: ソート結果
     """
-    return OrderedDict(sorted(d.items(), key=lambda x: x[1], reverse=True))
+    return OrderedDict(sorted(d.items(), key=lambda x: x[1]["data"], reverse=True))
 
 
 def add_dict(d1: dict, d2: dict) -> dict:
@@ -79,7 +49,14 @@ def add_dict(d1: dict, d2: dict) -> dict:
     :param d2:
     :return: 加算結果
     """
-    return dict(Counter(d1) + Counter(d2))
+    add_d = copy.deepcopy(d1)
+    for uuid, v in d2.items():
+        if uuid not in d1:
+            add_d[uuid] = v
+        else:
+            add_d[uuid]["data"] = d1[uuid]["data"] + d2[uuid]["data"]
+
+    return add_d
 
 
 def sub_dict(d1: dict, d2: dict) -> dict:
@@ -89,32 +66,15 @@ def sub_dict(d1: dict, d2: dict) -> dict:
     :param d2:
     :return: 減算結果
     """
-    return dict(Counter(d1) - Counter(d2))
-
-
-def uuid_to_name(uuid: str) -> str:
-    """
-    uuidから最新のmcidを取得
-    :param uuid: mcidを取得したいuuid
-    :return: uuidに対応したmcid
-    """
-    r_get = requests.get(uuid_url + uuid + "/names")
-    if r_get.status_code != requests.codes.ok:
-        return "null"
-    return r_get.json()[len(r_get.json()) - 1]["name"]
-
-
-def name_to_uuid(name: str) -> str:
-    """
-    mcidからuuidを取得
-    :param name: uuidを取得したいmcid
-    :return: mcidに対応したuuid
-    """
-    r_get = requests.get(name_url + name)
-    print(r_get.status_code)
-    if r_get.status_code != requests.codes.ok:
-        return "null"
-    return r_get.json()["id"]
+    sub_d = copy.deepcopy(d1)
+    for uuid, v in d2.items():
+        if uuid not in d1:
+            continue
+        else:
+            sub_d[uuid]["data"] = d1[uuid]["data"] - d2[uuid]["data"]
+            if sub_d[uuid]["data"] <= 0:
+                sub_d.pop(uuid, 'no key')
+    return sub_d
 
 
 def read_file(path: str) -> dict:
@@ -135,4 +95,3 @@ def write_file(path: str, d: dict):
     """
     with open(path, "w") as f:
         json.dump(d, f, indent=4)
-
