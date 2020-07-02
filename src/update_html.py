@@ -35,6 +35,7 @@ def create_html(contents: str, title: str, path: str):
             <h1> """ + title + """ </h1>
             <p>""" + contents + """ 
             </p>
+            Thank you to <a href="https://crafatar.com">Crafatar</a> for providing avatars.
         </main>
     </body>
 </html>
