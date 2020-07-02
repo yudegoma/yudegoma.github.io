@@ -7,7 +7,7 @@ def dict_to_html(rank: dict) -> str:
         i += 1
         print(i)
         result += "\n<div>\n" \
-                  "<img src=\"https://crafatar.com/avatars/" + uuid + "\" width=60px height=60px>\n \
+                  "<img src=\"https://crafatar.com/avatars/" + uuid + "/?size=60&&default=MHF_Steve&helm\">\n \
                     {:>3}位: {:>16}: {:,}<br>\n".format(i, value["name"], value["data"]) +\
                   "</div>"
     return result
