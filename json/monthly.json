@@ -3,13 +3,13 @@
         "name": "kouta6230",
         "data": 46424446
     },
+    "af7703572f834e65a7f787095a8916b6": {
+        "name": "Winter_Vertron",
+        "data": 25084325
+    },
     "92a108ba65dc434e88199a4aa0902088": {
         "name": "Harumitsu023",
         "data": 24676727
-    },
-    "af7703572f834e65a7f787095a8916b6": {
-        "name": "Winter_Vertron",
-        "data": 24488411
     },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
@@ -51,6 +51,10 @@
         "name": "0kq_55",
         "data": 5869522
     },
+    "32fa8f3309464936819152baef899a89": {
+        "name": "Aconitum_2715",
+        "data": 5589223
+    },
     "ae34779ae2bf4559882bb52f05849c3e": {
         "name": "Kotaro_Ninja",
         "data": 5551400
@@ -62,10 +66,6 @@
     "dd72f9a936444622b692549f4d118013": {
         "name": "Shiro_Horn",
         "data": 4906985
-    },
-    "32fa8f3309464936819152baef899a89": {
-        "name": "Aconitum_2715",
-        "data": 4388259
     },
     "bab130b922474b18967a0867edcccf69": {
         "name": "wanwanwan_o",
@@ -107,6 +107,10 @@
         "name": "ibuchan_",
         "data": 2812742
     },
+    "c45690b65c3d4fd1abdeac8961085a86": {
+        "name": "mizumochi0",
+        "data": 2547909
+    },
     "3566fc8374874f50aacb2fb7fe892d4d": {
         "name": "rabbit_rabbits",
         "data": 2545544
@@ -114,10 +118,6 @@
     "f9a6eb0c324745a4aa7edf681479f5a8": {
         "name": "dark_2el",
         "data": 2240190
-    },
-    "c45690b65c3d4fd1abdeac8961085a86": {
-        "name": "mizumochi0",
-        "data": 2239086
     },
     "ad0fcd7b9a4c467b88d134228d0cc5aa": {
         "name": "0412zenmaru",
@@ -135,6 +135,10 @@
         "name": "kutouten_jp",
         "data": 1588181
     },
+    "75375ae2c2e44e2a937d23d56fbeed59": {
+        "name": "hakuryu_1113",
+        "data": 1418797
+    },
     "a0874294e1a249d0b02002df507e7d18": {
         "name": "Kinoko_2K",
         "data": 1412248
@@ -150,10 +154,6 @@
     "01bc456b89cd45c7afa6ad3454db407a": {
         "name": "KakuseiUrurun",
         "data": 1357341
-    },
-    "75375ae2c2e44e2a937d23d56fbeed59": {
-        "name": "hakuryu_1113",
-        "data": 1334663
     },
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "chorocra_sub",
@@ -621,7 +621,7 @@
     },
     "2100b91443824b9db7a6dfdb563e952f": {
         "name": "KEIYA_oyako",
-        "data": 14568
+        "data": 14569
     },
     "4e77e541f50544fb966cec246fa427ec": {
         "name": "KAZIKI0520",
