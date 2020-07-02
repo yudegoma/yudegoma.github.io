@@ -6,21 +6,22 @@ def dict_to_html(rank: dict) -> str:
     result = ""
     for uuid, value in rank.items():
         i += 1
-        result += "{:>3}位: {:>16}: {}<br>\n".format(i, uuid_to_name(uuid), value)
+        print(i)
+        result += "{:>3}位: {:>16}: {}<br>\n".format(i, value["name"], value["data"])
     return result
+
 
 def create_html(contents: str, title: str, path: str):
     html = """
     <html>
     <head>
     <meta charset="UTF-8">
-    <title>【非公式】整地ランキング</title>
+    <title>整地ランキング</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
     </head>
-
     <body>
     <div>
-        <p>ランキング:</p>
+        <p>MENU:</p>
         <ul>
             <li><a href="./index.html">30分整地量ランキング</a></li>
             <li><a href="./daily.html">日間整地量ランキング</a></li>
@@ -36,7 +37,7 @@ def create_html(contents: str, title: str, path: str):
     </body>
     </html>
     """
-    
+
     with open(path, mode='w') as f:
         f.write(html)
 
