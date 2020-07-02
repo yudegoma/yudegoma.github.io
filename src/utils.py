@@ -77,6 +77,19 @@ def sub_dict(d1: dict, d2: dict) -> dict:
     return sub_d
 
 
+def update_mcid(d1: dict, d2: dict) -> dict:
+    new_d = copy.deepcopy(d1)
+    print(new_d)
+
+    for uuid, v in d2.items():
+        if uuid not in d1:
+            continue
+        new_d[uuid]["name"] = d2[uuid]["name"]
+
+    print(new_d)
+    return new_d
+
+
 def read_file(path: str) -> dict:
     """
     jsonファイルを安全に読み込む
