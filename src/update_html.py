@@ -14,7 +14,7 @@ def create_html(contents: str, title: str, path: str):
     <html>
     <head>
     <meta charset="UTF-8">
-    <title>整地ランキング</title>
+    <title>【非公式】整地ランキング</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
     </head>
 
