@@ -7,7 +7,7 @@ def dict_to_html(rank: dict) -> str:
     for uuid, value in rank.items():
         i += 1
         print(i)
-        result += "{:>3}位: {:>16}: {}<br>\n".format(i, value["name"], value["data"])
+        result += "{:>3}位: {:>16}: {:,}<br>\n".format(i, value["name"], value["data"])
     return result
 
 
