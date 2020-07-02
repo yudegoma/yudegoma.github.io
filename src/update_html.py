@@ -9,7 +9,7 @@ def dict_to_html(rank: dict) -> str:
         result += "{:>3}位: {:>16}: {}<br>\n".format(i, uuid_to_name(uuid), value)
     return result
 
-def create_html(contents: str, title: str, path: str) -> str:
+def create_html(contents: str, title: str, path: str):
     html = """
     <html>
     <head>
@@ -39,8 +39,7 @@ def create_html(contents: str, title: str, path: str) -> str:
     
     with open(path, mode='w') as f:
         f.write(html)
-        
-    return 
+
 
 min30_html = 'index.html'
 daily_html = 'daily.html'
