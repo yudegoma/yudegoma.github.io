@@ -99,6 +99,8 @@ def uuid_to_name(uuid: str) -> str:
     :return: uuidに対応したmcid
     """
     r_get = requests.get(uuid_url + uuid + "/names")
+    if r_get.status_code != requests.codes.ok:
+        return "null"
     return r_get.json()[len(r_get.json()) - 1]["name"]
 
 
@@ -111,7 +113,7 @@ def name_to_uuid(name: str) -> str:
     r_get = requests.get(name_url + name)
     print(r_get.status_code)
     if r_get.status_code != requests.codes.ok:
-        return "#null"
+        return "null"
     return r_get.json()["id"]
 
 
