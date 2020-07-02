@@ -1,41 +1,43 @@
 from utils import *
 
-
 def dict_to_html(rank: dict) -> str:
     i = 0
     result = ""
     for uuid, value in rank.items():
         i += 1
         print(i)
-        result += "{:>3}位: {:>16}: {:,}<br>\n".format(i, value["name"], value["data"])
+        result += "\n<div>\n" \
+                  "<img src=\"https://crafatar.com/avatars/" + uuid + "\" width=60px height=60px>\n \
+                    {:>3}位: {:>16}: {:,}<br>\n".format(i, value["name"], value["data"]) +\
+                  "</div>"
     return result
 
 
 def create_html(contents: str, title: str, path: str):
     html = """
-    <html>
+<html>
     <head>
-    <meta charset="UTF-8">
-    <title>整地ランキング</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
+        <meta charset="UTF-8">
+        <title>整地ランキング</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
     </head>
     <body>
-    <div>
+        <div>
         <p>MENU:</p>
-        <ul>
-            <li><a href="./index.html">30分整地量ランキング</a></li>
-            <li><a href="./daily.html">日間整地量ランキング</a></li>
-            <li><a href="./weekly.html">週間整地量ランキング</a></li>
-            <li><a href="./monthly.html">月間整地量ランキング</a></li>
-        </ul>
-    </div>
-    <main>
-        <h1> """ + title + """ </h1>
-        <p>""" + contents + """
-    </p>
-    </main>
+            <ul>
+                <li><a href="./index.html">30分整地量ランキング</a></li>
+                <li><a href="./daily.html">日間整地量ランキング</a></li>
+                <li><a href="./weekly.html">週間整地量ランキング</a></li>
+                <li><a href="./monthly.html">月間整地量ランキング</a></li>
+            </ul>
+        </div>
+        <main>
+            <h1> """ + title + """ </h1>
+            <p>""" + contents + """ 
+            </p>
+        </main>
     </body>
-    </html>
+</html>
     """
 
     with open(path, mode='w') as f:
