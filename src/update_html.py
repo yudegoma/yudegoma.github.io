@@ -19,9 +19,18 @@ def create_html(contents: str, title: str, path: str) -> str:
     </head>
 
     <body>
+    <div>
+        <p>MENU:</p>
+        <ul>
+            <li><a href="./index.html">30分整地量ランキング</a></li>
+            <li><a href="./daily.html">日間整地量ランキング</a></li>
+            <li><a href="./weekly.html">週間整地量ランキング</a></li>
+            <li><a href="./monthly.html">月間整地量ランキング</a></li>
+        </ul>
+    </div>
     <main>
-      <h1> """ + title + """ </h1>
-      <p>""" + contents + """
+        <h1> """ + title + """ </h1>
+        <p>""" + contents + """
     </p>
     </main>
     </body>
