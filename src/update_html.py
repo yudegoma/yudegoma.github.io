@@ -20,7 +20,7 @@ def create_html(contents: str, title: str, path: str):
 
     <body>
     <div>
-        <p>MENU:</p>
+        <p>ランキング:</p>
         <ul>
             <li><a href="./index.html">30分整地量ランキング</a></li>
             <li><a href="./daily.html">日間整地量ランキング</a></li>
