@@ -25,19 +25,19 @@
     },
     "bab130b922474b18967a0867edcccf69": {
         "name": "wanwanwan_o",
-        "data": 41287548
+        "data": 41538937
     },
     "ed0279c2657c4387941e7a959b360296": {
         "name": "xirent",
         "data": 34407962
     },
+    "9c565f26ea8d4c0397311c89282ab2b9": {
+        "name": "NaCl2375",
+        "data": 29614663
+    },
     "98aaccd61f85444a94550f72e671fb65": {
         "name": "reiji62",
         "data": 29514041
-    },
-    "9c565f26ea8d4c0397311c89282ab2b9": {
-        "name": "NaCl2375",
-        "data": 29483798
     },
     "81bee736e58f433ebf6808fb55f3164e": {
         "name": "imoso",
@@ -49,7 +49,7 @@
     },
     "dd72f9a936444622b692549f4d118013": {
         "name": "Shiro_Horn",
-        "data": 21256019
+        "data": 21323042
     },
     "8e265aa7ad7140e9a9a70de046ed70db": {
         "name": "mekamao",
@@ -129,7 +129,7 @@
     },
     "58fcfaf841b14a7db5061e322abbe1a7": {
         "name": "Kotarou128",
-        "data": 8038629
+        "data": 8085402
     },
     "3566fc8374874f50aacb2fb7fe892d4d": {
         "name": "rabbit_rabbits",
@@ -259,6 +259,10 @@
         "name": "disneyresidents",
         "data": 3839626
     },
+    "9e83f6e513a5444aadc5ba4033116a6f": {
+        "name": "choropico",
+        "data": 3630905
+    },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
         "data": 3584533
@@ -266,10 +270,6 @@
     "a15a50908f98449cab042112ffe0f279": {
         "name": "watasihatawasi",
         "data": 3564353
-    },
-    "9e83f6e513a5444aadc5ba4033116a6f": {
-        "name": "choropico",
-        "data": 3509767
     },
     "b0370f81847d42f38324270312e6b271": {
         "name": "ohmomo_yuushi",
@@ -319,13 +319,13 @@
         "name": "mend3141",
         "data": 2579664
     },
+    "d6be156147c14e6798292aca48f9be39": {
+        "name": "nekorobi_0",
+        "data": 2539560
+    },
     "be9a6a585c0745a0908f0c39602706ce": {
         "name": "ben158460",
         "data": 2456144
-    },
-    "d6be156147c14e6798292aca48f9be39": {
-        "name": "nekorobi_0",
-        "data": 2388379
     },
     "b221682d5ad94a04884c07783cc01857": {
         "name": "guilty_",
@@ -731,6 +731,10 @@
         "name": "Rinper",
         "data": 224405
     },
+    "2073d8ec41204516a3aa185914aba363": {
+        "name": "komonoking_",
+        "data": 223804
+    },
     "667aaafd7995447795159ea8aab9e4ee": {
         "name": "kinoggasa",
         "data": 217504
@@ -742,10 +746,6 @@
     "f85c8d49649f4de2859817e6e08ad0d3": {
         "name": "KZMA2019",
         "data": 203560
-    },
-    "2073d8ec41204516a3aa185914aba363": {
-        "name": "komonoking_",
-        "data": 201723
     },
     "1a39fab2df6343bc8b7e739fe00f9c88": {
         "name": "houshi0625",
@@ -1387,6 +1387,10 @@
         "name": "karigurasi",
         "data": 9679
     },
+    "60fbbbf79b5547e3bc93319e30543846": {
+        "name": "A_and_K",
+        "data": 9573
+    },
     "b0a87d3e3d73471f886b0e54d88f77a1": {
         "name": "norihama228",
         "data": 9527
@@ -1394,10 +1398,6 @@
     "bc607cd5813643a8bd878873fdd7ef73": {
         "name": "NEOCHIKUN",
         "data": 9253
-    },
-    "60fbbbf79b5547e3bc93319e30543846": {
-        "name": "A_and_K",
-        "data": 9124
     },
     "3b69eb032ea1484f837e8b5cd37bf2d5": {
         "name": "smile_ns",
@@ -1483,6 +1483,10 @@
         "name": "lamiiiiiii",
         "data": 6106
     },
+    "ff27363019c24970ad616190e83f5089": {
+        "name": "ABCplayers",
+        "data": 6017
+    },
     "a932dd0350a64740944a92aabf763342": {
         "name": "4R_daichi",
         "data": 5947
@@ -1498,6 +1502,10 @@
     "acede8657a7e41afb7ed422aac089e94": {
         "name": "takumin0216",
         "data": 5868
+    },
+    "ecdaa35452524ec49d02f9ac4767fe4e": {
+        "name": "m_a_to",
+        "data": 5800
     },
     "d4eecc934e134bfcb840d8b31c6a4fe8": {
         "name": "demoniceel78880",
@@ -1531,10 +1539,6 @@
         "name": "NOZO0717",
         "data": 4944
     },
-    "ecdaa35452524ec49d02f9ac4767fe4e": {
-        "name": "m_a_to",
-        "data": 4847
-    },
     "a12bceebd2bd4b858c9ee957016336a9": {
         "name": "kanako0129",
         "data": 4708
@@ -1546,10 +1550,6 @@
     "1f9e8b8e184a4769bd18af011e4a0874": {
         "name": "kanimeshi",
         "data": 4640
-    },
-    "ff27363019c24970ad616190e83f5089": {
-        "name": "ABCplayers",
-        "data": 4489
     },
     "28b8f357fa5d4303b87e667dcaa3f79d": {
         "name": "Devil_Summoner",
