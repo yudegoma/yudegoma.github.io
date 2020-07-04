@@ -1,7 +1,7 @@
 {
     "b2100f40b3a4486ab4e0048fd64144af": {
         "name": "ens8",
-        "data": 2003548
+        "data": 2614372
     },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
@@ -21,7 +21,11 @@
     },
     "92a108ba65dc434e88199a4aa0902088": {
         "name": "harumitsu023",
-        "data": 615147
+        "data": 718913
+    },
+    "7bf83376036c44c382c44ca47f3f936c": {
+        "name": "toraemon8",
+        "data": 431469
     },
     "4a576b554a7e425d93847510e1956f74": {
         "name": "nao_0135",
@@ -43,29 +47,29 @@
         "name": "lynette_bid_pls",
         "data": 126078
     },
-    "bab130b922474b18967a0867edcccf69": {
-        "name": "wanwanwan_o",
-        "data": 96799
+    "ae02b421c0184425b13f9ad7d9f84304": {
+        "name": "humiijp",
+        "data": 113003
     },
     "9e1859bda0b745a1980b7b1951ab76eb": {
         "name": "est6ouo9",
-        "data": 59819
+        "data": 99815
+    },
+    "bab130b922474b18967a0867edcccf69": {
+        "name": "wanwanwan_o",
+        "data": 96799
     },
     "cba8cad4c77d4421900f80c8b0bf6322": {
         "name": "sorakichi24",
         "data": 41657
     },
+    "2073d8ec41204516a3aa185914aba363": {
+        "name": "komonoking_",
+        "data": 40055
+    },
     "3423c69ba1cd41cfa896992f9a6f5935": {
         "name": "irohachan246",
         "data": 25386
-    },
-    "2073d8ec41204516a3aa185914aba363": {
-        "name": "komonoking_",
-        "data": 15502
-    },
-    "ae02b421c0184425b13f9ad7d9f84304": {
-        "name": "humiijp",
-        "data": 12855
     },
     "bd7c977f54e3403f89527cdca421b728": {
         "name": "ryuu219",
@@ -79,12 +83,20 @@
         "name": "firewater0712",
         "data": 5237
     },
-    "7bf83376036c44c382c44ca47f3f936c": {
-        "name": "toraemon8",
-        "data": 3814
+    "4eabbc4069444abbbc63525ce420dcea": {
+        "name": "macha_mochi",
+        "data": 4197
+    },
+    "dd72f9a936444622b692549f4d118013": {
+        "name": "shiro_horn",
+        "data": 600
     },
     "8d7039033afd4df4ba2560ec43f55e13": {
         "name": "yusuke_sub_",
-        "data": 262
+        "data": 560
+    },
+    "ecdaa35452524ec49d02f9ac4767fe4e": {
+        "name": "m_a_to",
+        "data": 69
     }
 }

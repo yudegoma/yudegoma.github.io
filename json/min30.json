@@ -1,66 +1,42 @@
 {
     "b2100f40b3a4486ab4e0048fd64144af": {
         "name": "ens8",
-        "data": 1096986
-    },
-    "868afd6f47304a43bb5e3bc62a7daa63": {
-        "name": "tyanimo_256",
-        "data": 739439
-    },
-    "81bee736e58f433ebf6808fb55f3164e": {
-        "name": "imoso",
-        "data": 376958
-    },
-    "92a108ba65dc434e88199a4aa0902088": {
-        "name": "harumitsu023",
-        "data": 334395
-    },
-    "438ed7bfcbcf40d9a672aacc2868e267": {
-        "name": "chorocra",
-        "data": 278371
-    },
-    "80bf4528847c4ff4a1077239e030e31e": {
-        "name": "reiton0222",
-        "data": 164709
-    },
-    "4a576b554a7e425d93847510e1956f74": {
-        "name": "nao_0135",
-        "data": 152344
-    },
-    "467a2a4fc7b84316a34435267bebb8b0": {
-        "name": "lynette_bid_pls",
-        "data": 126078
-    },
-    "96a59dcf99584bb3a4ce17f6eaeae0d7": {
-        "name": "ryu888",
-        "data": 71710
-    },
-    "cba8cad4c77d4421900f80c8b0bf6322": {
-        "name": "sorakichi24",
-        "data": 41657
-    },
-    "9e1859bda0b745a1980b7b1951ab76eb": {
-        "name": "est6ouo9",
-        "data": 39864
-    },
-    "3423c69ba1cd41cfa896992f9a6f5935": {
-        "name": "irohachan246",
-        "data": 25386
-    },
-    "2073d8ec41204516a3aa185914aba363": {
-        "name": "komonoking_",
-        "data": 15502
-    },
-    "ae02b421c0184425b13f9ad7d9f84304": {
-        "name": "humiijp",
-        "data": 9817
+        "data": 610824
     },
     "7bf83376036c44c382c44ca47f3f936c": {
         "name": "toraemon8",
-        "data": 3814
+        "data": 427655
+    },
+    "92a108ba65dc434e88199a4aa0902088": {
+        "name": "harumitsu023",
+        "data": 103766
+    },
+    "ae02b421c0184425b13f9ad7d9f84304": {
+        "name": "humiijp",
+        "data": 100148
+    },
+    "9e1859bda0b745a1980b7b1951ab76eb": {
+        "name": "est6ouo9",
+        "data": 39996
+    },
+    "2073d8ec41204516a3aa185914aba363": {
+        "name": "komonoking_",
+        "data": 24553
+    },
+    "4eabbc4069444abbbc63525ce420dcea": {
+        "name": "macha_mochi",
+        "data": 4197
+    },
+    "dd72f9a936444622b692549f4d118013": {
+        "name": "shiro_horn",
+        "data": 600
     },
     "8d7039033afd4df4ba2560ec43f55e13": {
         "name": "yusuke_sub_",
-        "data": 262
+        "data": 298
+    },
+    "ecdaa35452524ec49d02f9ac4767fe4e": {
+        "name": "m_a_to",
+        "data": 69
     }
 }
