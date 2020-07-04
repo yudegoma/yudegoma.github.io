@@ -13,7 +13,7 @@
     },
     "c6938a5406314201ba2309dced95d41e": {
         "name": "KO0201",
-        "data": 49248229
+        "data": 50348618
     },
     "b2100f40b3a4486ab4e0048fd64144af": {
         "name": "ENS8",
@@ -33,7 +33,7 @@
     },
     "9c565f26ea8d4c0397311c89282ab2b9": {
         "name": "NaCl2375",
-        "data": 29614663
+        "data": 30107485
     },
     "98aaccd61f85444a94550f72e671fb65": {
         "name": "reiji62",
@@ -203,6 +203,10 @@
         "name": "tyanimo_256",
         "data": 4930534
     },
+    "3a5c0c7806c54e93958f92eb34a13c08": {
+        "name": "Kiichi_Go",
+        "data": 4701025
+    },
     "b8ab4905395b42df94f0ce8e27a79f26": {
         "name": "yaminoyami",
         "data": 4645944
@@ -214,10 +218,6 @@
     "4b465bb8f98e4648b7c1d6cb5eb6ccf3": {
         "name": "ibuchan_",
         "data": 4581504
-    },
-    "3a5c0c7806c54e93958f92eb34a13c08": {
-        "name": "Kiichi_Go",
-        "data": 4574042
     },
     "e3cd6cdca0e3426b99021294f9fef34b": {
         "name": "aomine5",
@@ -251,6 +251,10 @@
         "name": "tuisekisya",
         "data": 4040541
     },
+    "9e83f6e513a5444aadc5ba4033116a6f": {
+        "name": "choropico",
+        "data": 4035760
+    },
     "7921d5ade5fa48539e397c76de9ba937": {
         "name": "Ryo_256",
         "data": 3881664
@@ -258,10 +262,6 @@
     "15c2d7c592c24520a27196100af057dd": {
         "name": "disneyresidents",
         "data": 3839626
-    },
-    "9e83f6e513a5444aadc5ba4033116a6f": {
-        "name": "choropico",
-        "data": 3630905
     },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
@@ -295,13 +295,17 @@
         "name": "watatuki_MinT",
         "data": 3221690
     },
+    "75375ae2c2e44e2a937d23d56fbeed59": {
+        "name": "hakuryu_1113",
+        "data": 3174511
+    },
     "ad0fcd7b9a4c467b88d134228d0cc5aa": {
         "name": "0412zenmaru",
         "data": 3003252
     },
-    "75375ae2c2e44e2a937d23d56fbeed59": {
-        "name": "hakuryu_1113",
-        "data": 2935206
+    "d6be156147c14e6798292aca48f9be39": {
+        "name": "nekorobi_0",
+        "data": 2940079
     },
     "1d97f13aedf04b07ad9aa29cfa5e6149": {
         "name": "pikachu2014g",
@@ -318,10 +322,6 @@
     "deda238b64a349318a85f55109a57bb1": {
         "name": "mend3141",
         "data": 2579664
-    },
-    "d6be156147c14e6798292aca48f9be39": {
-        "name": "nekorobi_0",
-        "data": 2539560
     },
     "be9a6a585c0745a0908f0c39602706ce": {
         "name": "ben158460",
@@ -355,13 +355,13 @@
         "name": "_Megatron_",
         "data": 1938595
     },
+    "f8a91e13482b4f30851a66280f5bd0e2": {
+        "name": "Natrium_7270",
+        "data": 1923265
+    },
     "ab2c920e65ad4055a0645e1f9c6b63b9": {
         "name": "rukichigai",
         "data": 1848171
-    },
-    "f8a91e13482b4f30851a66280f5bd0e2": {
-        "name": "Natrium_7270",
-        "data": 1797334
     },
     "6637072b3ddd4efdb86cacb1eae8e3f7": {
         "name": "naotonn",
@@ -1107,6 +1107,10 @@
         "name": "ririnrinta",
         "data": 37364
     },
+    "2100b91443824b9db7a6dfdb563e952f": {
+        "name": "KEIYA_oyako",
+        "data": 36657
+    },
     "2f7d695480214d7cb060f2d3dd7319ee": {
         "name": "tacraft728",
         "data": 36538
@@ -1118,10 +1122,6 @@
     "731a20c83886460687be53c56e32b162": {
         "name": "x_Kagura_x",
         "data": 35773
-    },
-    "2100b91443824b9db7a6dfdb563e952f": {
-        "name": "KEIYA_oyako",
-        "data": 34569
     },
     "ee4aacb9070340148ac7c6ab681061f9": {
         "name": "chorocra_198oo",
@@ -1246,6 +1246,10 @@
     "8f6713996c904cad871febe814ca18b4": {
         "name": "bunbabonba",
         "data": 20318
+    },
+    "ff27363019c24970ad616190e83f5089": {
+        "name": "ABCplayers",
+        "data": 19596
     },
     "df4fd51e25114165b37f471da6698289": {
         "name": "hyo532",
@@ -1482,10 +1486,6 @@
     "167d38e8de424515b37a75c10d3820f2": {
         "name": "lamiiiiiii",
         "data": 6106
-    },
-    "ff27363019c24970ad616190e83f5089": {
-        "name": "ABCplayers",
-        "data": 6017
     },
     "a932dd0350a64740944a92aabf763342": {
         "name": "4R_daichi",
