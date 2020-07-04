@@ -7,6 +7,10 @@
         "name": "reiji62",
         "data": 2860115
     },
+    "58fcfaf841b14a7db5061e322abbe1a7": {
+        "name": "kotarou128",
+        "data": 2063167
+    },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
         "data": 1572039
@@ -23,10 +27,6 @@
         "name": "harumitsu023",
         "data": 1314597
     },
-    "58fcfaf841b14a7db5061e322abbe1a7": {
-        "name": "kotarou128",
-        "data": 1301557
-    },
     "9c565f26ea8d4c0397311c89282ab2b9": {
         "name": "nacl2375",
         "data": 1122783
@@ -37,7 +37,11 @@
     },
     "bab130b922474b18967a0867edcccf69": {
         "name": "wanwanwan_o",
-        "data": 460726
+        "data": 624034
+    },
+    "dd72f9a936444622b692549f4d118013": {
+        "name": "shiro_horn",
+        "data": 581370
     },
     "7bf83376036c44c382c44ca47f3f936c": {
         "name": "toraemon8",
@@ -51,10 +55,6 @@
         "name": "takenokomaru",
         "data": 396966
     },
-    "dd72f9a936444622b692549f4d118013": {
-        "name": "shiro_horn",
-        "data": 268325
-    },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
         "data": 265488
@@ -67,6 +67,10 @@
         "name": "ryu888",
         "data": 229644
     },
+    "2073d8ec41204516a3aa185914aba363": {
+        "name": "komonoking_",
+        "data": 128992
+    },
     "467a2a4fc7b84316a34435267bebb8b0": {
         "name": "lynette_bid_pls",
         "data": 126078
@@ -78,10 +82,6 @@
     "9e1859bda0b745a1980b7b1951ab76eb": {
         "name": "est6ouo9",
         "data": 110542
-    },
-    "2073d8ec41204516a3aa185914aba363": {
-        "name": "komonoking_",
-        "data": 104577
     },
     "e32e2a98cce246a9a824a4fb37199931": {
         "name": "tetehu",
@@ -107,6 +107,10 @@
         "name": "ryuu219",
         "data": 18292
     },
+    "3a5c0c7806c54e93958f92eb34a13c08": {
+        "name": "kiichi_go",
+        "data": 9717
+    },
     "c6938a5406314201ba2309dced95d41e": {
         "name": "ko0201",
         "data": 8939
@@ -119,8 +123,16 @@
         "name": "m_a_to",
         "data": 4846
     },
+    "60fbbbf79b5547e3bc93319e30543846": {
+        "name": "a_and_k",
+        "data": 1617
+    },
     "8d7039033afd4df4ba2560ec43f55e13": {
         "name": "yusuke_sub_",
         "data": 560
+    },
+    "ff27363019c24970ad616190e83f5089": {
+        "name": "abcplayers",
+        "data": 275
     }
 }
