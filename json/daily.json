@@ -1,7 +1,7 @@
 {
     "b2100f40b3a4486ab4e0048fd64144af": {
         "name": "ens8",
-        "data": 8867865
+        "data": 10847736
     },
     "98aaccd61f85444a94550f72e671fb65": {
         "name": "reiji62",
@@ -31,6 +31,10 @@
         "name": "cf_felis",
         "data": 762148
     },
+    "d6be156147c14e6798292aca48f9be39": {
+        "name": "nekorobi_0",
+        "data": 511186
+    },
     "133f4ef4785747c8a5c34e14a0f15123": {
         "name": "atara",
         "data": 496311
@@ -47,17 +51,13 @@
         "name": "harumitsu023",
         "data": 377511
     },
+    "b5212f4c3a404adb9113c3a733112aa7": {
+        "name": "kyosyou_kyosyou",
+        "data": 354217
+    },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
         "data": 201702
-    },
-    "d6be156147c14e6798292aca48f9be39": {
-        "name": "nekorobi_0",
-        "data": 152008
-    },
-    "b5212f4c3a404adb9113c3a733112aa7": {
-        "name": "kyosyou_kyosyou",
-        "data": 141757
     },
     "8d7039033afd4df4ba2560ec43f55e13": {
         "name": "yusuke_sub_",
@@ -87,6 +87,10 @@
         "name": "m_a_to",
         "data": 14688
     },
+    "32fa8f3309464936819152baef899a89": {
+        "name": "aconitum_2715",
+        "data": 14339
+    },
     "db87cc801578488d9a1392d82b9205fe": {
         "name": "daryu_daempi",
         "data": 13801
@@ -95,13 +99,13 @@
         "name": "surarin6",
         "data": 9515
     },
+    "0818d1aad2044d4da6c43651eb180d63": {
+        "name": "soso51113",
+        "data": 8811
+    },
     "67b3ea183ac649259a8b540053df3ba9": {
         "name": "jhinfizz",
         "data": 6713
-    },
-    "32fa8f3309464936819152baef899a89": {
-        "name": "aconitum_2715",
-        "data": 3158
     },
     "699774b27dd743d5896a74b831f77026": {
         "name": "udukiyu",
@@ -114,6 +118,10 @@
     "f54f8b17eece43ebadd45586a0d89a2c": {
         "name": "dacba414",
         "data": 33
+    },
+    "34fe2cd9030e4256a7533c29c3421abf": {
+        "name": "yysd",
+        "data": 10
     },
     "284aac850ccb4bd883e850e44ad0d273": {
         "name": "keeperofrainbow",
