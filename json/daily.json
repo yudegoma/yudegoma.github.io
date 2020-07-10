@@ -1,7 +1,7 @@
 {
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
-        "data": 20026209
+        "data": 21013488
     },
     "92a108ba65dc434e88199a4aa0902088": {
         "name": "harumitsu023",
@@ -11,17 +11,17 @@
         "name": "29kouji29",
         "data": 3816738
     },
+    "ff2eb52ecc9f4d1ca8af8aed30353356": {
+        "name": "hotate_2",
+        "data": 2277964
+    },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
         "data": 2244477
     },
-    "ff2eb52ecc9f4d1ca8af8aed30353356": {
-        "name": "hotate_2",
-        "data": 2238017
-    },
     "e05c06c70c6147c2a50957db2cfd47ad": {
         "name": "_kokaze_nn_",
-        "data": 1975823
+        "data": 1975824
     },
     "98aaccd61f85444a94550f72e671fb65": {
         "name": "reiji62",
@@ -30,6 +30,10 @@
     "c45690b65c3d4fd1abdeac8961085a86": {
         "name": "mizumochi0",
         "data": 1773638
+    },
+    "b9fe181bbfe14dcda1a02e0fd1e9d13d": {
+        "name": "inumugi_331",
+        "data": 758806
     },
     "b221682d5ad94a04884c07783cc01857": {
         "name": "guilty_",
@@ -51,17 +55,25 @@
         "name": "nekorobi_0",
         "data": 510009
     },
+    "fdd25f48395d482daefc345aa354c83a": {
+        "name": "moti_omega",
+        "data": 360257
+    },
     "2073d8ec41204516a3aa185914aba363": {
         "name": "komonoking_",
         "data": 275779
     },
+    "bc7b5150994d4771a765032896cf6232": {
+        "name": "nekoharusame",
+        "data": 274084
+    },
+    "ef2c681ca79b47458d7985991978ccba": {
+        "name": "hero_shota",
+        "data": 226712
+    },
     "ec5d79df693f4535a6d444e1a473cfbd": {
         "name": "refrain2416256",
         "data": 205965
-    },
-    "b9fe181bbfe14dcda1a02e0fd1e9d13d": {
-        "name": "inumugi_331",
-        "data": 204379
     },
     "9e83f6e513a5444aadc5ba4033116a6f": {
         "name": "last_one_minute",
@@ -81,11 +93,7 @@
     },
     "72d66421d15d4584957cb956c9fd81c1": {
         "name": "akagami0724",
-        "data": 107029
-    },
-    "ef2c681ca79b47458d7985991978ccba": {
-        "name": "hero_shota",
-        "data": 101689
+        "data": 111804
     },
     "21c13f9c6eaf471c9c9db90ca14fd747": {
         "name": "kssyunoob",
@@ -103,6 +111,10 @@
         "name": "fake088",
         "data": 74954
     },
+    "249d41a283c9453dbfffc330aa0bafce": {
+        "name": "chorocra_256",
+        "data": 73627
+    },
     "fbc4546c2e2b45e28abd67d2716622c5": {
         "name": "choro_kinton",
         "data": 62059
@@ -110,10 +122,6 @@
     "aaddad0eb8254732baf0e86906ca1d91": {
         "name": "gogottt",
         "data": 54725
-    },
-    "249d41a283c9453dbfffc330aa0bafce": {
-        "name": "chorocra_256",
-        "data": 49655
     },
     "34927c0549824892969819b965998876": {
         "name": "seichi_ocean",
@@ -135,6 +143,10 @@
         "name": "sweetcastle",
         "data": 24545
     },
+    "e2573a87cc044bd88d66e2929a7d1b4d": {
+        "name": "amatubamem",
+        "data": 17689
+    },
     "e33d6eef7f474275aec303bf3666c617": {
         "name": "chorocra_198o0",
         "data": 17441
@@ -155,10 +167,6 @@
         "name": "robottomankun",
         "data": 10334
     },
-    "bc7b5150994d4771a765032896cf6232": {
-        "name": "nekoharusame",
-        "data": 9471
-    },
     "d0ee00614bd04720af4617e49c465259": {
         "name": "bacarcano",
         "data": 8143
@@ -174,6 +182,10 @@
     "96a59dcf99584bb3a4ce17f6eaeae0d7": {
         "name": "ryu888",
         "data": 6532
+    },
+    "7231f717c1284fbd929ca575587ebef3": {
+        "name": "speculum964",
+        "data": 2001
     },
     "b0f4e77ebe4f4efb85ae2649e7c63804": {
         "name": "yasuo_013",
@@ -195,13 +207,21 @@
         "name": "pasokon1721",
         "data": 1187
     },
-    "7231f717c1284fbd929ca575587ebef3": {
-        "name": "speculum964",
-        "data": 1040
+    "a0008a4be43042069013d08ced149f2c": {
+        "name": "sumairutakada31",
+        "data": 468
+    },
+    "2e8cfb602d964e8eaba365a09ef1d1c6": {
+        "name": "blockbiter353",
+        "data": 270
     },
     "76352dc6a34642bebe0b11e76ea284e1": {
         "name": "akahase",
         "data": 258
+    },
+    "3020047fea17431b903ea323516c49ec": {
+        "name": "pure_apology",
+        "data": 178
     },
     "32fa8f3309464936819152baef899a89": {
         "name": "aconitum_2715",
