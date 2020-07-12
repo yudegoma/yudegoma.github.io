@@ -31,6 +31,11 @@ def create_html(contents: str, title: str, path: str):
                 <li><a href="./monthly.html">月間整地量ランキング</a></li>
             </ul>
         </div>
+        <p>イベント:</p>
+            <ul>
+                <li><a href="./4thAnniv.html">4周年記念整地量ランキング</a></li>
+            </ul>
+        </div>
         <main>
             <h1> """ + title + """ </h1>
             <p>""" + contents + """ 
