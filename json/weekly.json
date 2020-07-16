@@ -53,7 +53,7 @@
     },
     "ed0279c2657c4387941e7a959b360296": {
         "name": "xirent",
-        "data": 57163965
+        "data": 57593657
     },
     "28e61ce019b54e628fad91f08007a953": {
         "name": "mikeneko_3253",
@@ -77,7 +77,7 @@
     },
     "e05c06c70c6147c2a50957db2cfd47ad": {
         "name": "_kokaze_Nn_",
-        "data": 52066784
+        "data": 52569357
     },
     "6b88f4b733924fd893a095caff1842c8": {
         "name": "gen_1505",
@@ -313,7 +313,7 @@
     },
     "a0874294e1a249d0b02002df507e7d18": {
         "name": "Kinoko_2K",
-        "data": 11826233
+        "data": 11983714
     },
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "chorocra_sub",
@@ -583,6 +583,10 @@
         "name": "olivine117",
         "data": 3212758
     },
+    "2073d8ec41204516a3aa185914aba363": {
+        "name": "komonoking_",
+        "data": 3017041
+    },
     "ad0fcd7b9a4c467b88d134228d0cc5aa": {
         "name": "0412zenmaru",
         "data": 3003252
@@ -590,10 +594,6 @@
     "d22fe904d76a4ec7a0a848f0146d8549": {
         "name": "SpecialBoyWaka",
         "data": 2996598
-    },
-    "2073d8ec41204516a3aa185914aba363": {
-        "name": "komonoking_",
-        "data": 2926271
     },
     "caf8c3f095794ee29e108503dc445308": {
         "name": "sigunal",
@@ -719,6 +719,10 @@
         "name": "nagateyan",
         "data": 1785442
     },
+    "f5ba7a5084114df08b9edb0c522466a4": {
+        "name": "souta001",
+        "data": 1750597
+    },
     "4de927b31ea34f22bf1c5781ca046b53": {
         "name": "nekonyanneko",
         "data": 1724190
@@ -738,10 +742,6 @@
     "8508514b653d4c36898ffb63d5dfc9e9": {
         "name": "conarin",
         "data": 1679809
-    },
-    "f5ba7a5084114df08b9edb0c522466a4": {
-        "name": "souta001",
-        "data": 1677264
     },
     "204729ab5cef4f05b928d4255c564ab4": {
         "name": "fvrc",
@@ -947,6 +947,10 @@
         "name": "cat_world",
         "data": 897571
     },
+    "8803a713a9d4459a90a51cda517e8744": {
+        "name": "miko53",
+        "data": 897000
+    },
     "033bd3daad6047a5ba59ce39caa26c18": {
         "name": "attruth3zk",
         "data": 873150
@@ -978,10 +982,6 @@
     "f5ed63a320264ee1a276262d4ad95c9d": {
         "name": "tana_sb_jp",
         "data": 837033
-    },
-    "8803a713a9d4459a90a51cda517e8744": {
-        "name": "miko53",
-        "data": 825724
     },
     "42c6d34ab48e4336baa8eee70c9d0d48": {
         "name": "puusanbery",
@@ -1121,7 +1121,7 @@
     },
     "6040b5085fac432a83ecbb0ed3e85995": {
         "name": "SweetCastle",
-        "data": 560688
+        "data": 578970
     },
     "eb4f526b36db4293808e0a83951dcee5": {
         "name": "SURARIN6",
@@ -1375,6 +1375,10 @@
         "name": "howard127_IQ3",
         "data": 309587
     },
+    "4abd8859d1af4d3a9ce3d41b54d62d73": {
+        "name": "jun_624",
+        "data": 306010
+    },
     "ff27363019c24970ad616190e83f5089": {
         "name": "ABCplayers",
         "data": 302261
@@ -1446,10 +1450,6 @@
     "67b3ea183ac649259a8b540053df3ba9": {
         "name": "jhinfizz",
         "data": 262168
-    },
-    "4abd8859d1af4d3a9ce3d41b54d62d73": {
-        "name": "jun_624",
-        "data": 258670
     },
     "9cfb7490164b4a1dba22fc09b43f60ae": {
         "name": "aitomk",
@@ -2339,6 +2339,10 @@
         "name": "persona0306",
         "data": 38439
     },
+    "b52a13492900422ca1bd164c8efeac1f": {
+        "name": "suikapc8115",
+        "data": 38090
+    },
     "e0b30752ab274b0da296e4ed239e91f6": {
         "name": "legendarymimizu",
         "data": 37718
@@ -2350,10 +2354,6 @@
     "504771546ce34f1b91a17c11b38bb35a": {
         "name": "futaman",
         "data": 37343
-    },
-    "b52a13492900422ca1bd164c8efeac1f": {
-        "name": "suikapc8115",
-        "data": 37163
     },
     "cc745ec13ee64edbb3ddc69b7858734b": {
         "name": "nagi_to",
@@ -3410,6 +3410,10 @@
     "f6c7b995ef21418fbac0291a81138642": {
         "name": "needle514",
         "data": 3078
+    },
+    "e5b14d1097824c418f964c1ab5aa81ba": {
+        "name": "hukuroo",
+        "data": 3065
     },
     "4353696b552049e19e000d607ad8bb58": {
         "name": "_torainu_",
