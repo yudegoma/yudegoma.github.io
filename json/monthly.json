@@ -537,7 +537,7 @@
     },
     "c75601dc615b457bb7db69a12711711a": {
         "name": "dark_dottokomu",
-        "data": 3559198
+        "data": 3628843
     },
     "2816d3a90c1c4e69bdf07bf2df778e83": {
         "name": "kuromu960",
@@ -795,6 +795,10 @@
         "name": "kei_suisen_cake",
         "data": 1306784
     },
+    "b76e6c93c4754fff8d9dcae2844ae6db": {
+        "name": "teammegumin",
+        "data": 1284988
+    },
     "f1bfac52ec514b398df55a794441b480": {
         "name": "naetao",
         "data": 1259844
@@ -870,10 +874,6 @@
     "c099c92714f34c258a2d7aa185a2cd86": {
         "name": "citrusunshiu",
         "data": 982091
-    },
-    "b76e6c93c4754fff8d9dcae2844ae6db": {
-        "name": "teammegumin",
-        "data": 974389
     },
     "d0ee00614bd04720af4617e49c465259": {
         "name": "bacarcano",
@@ -974,6 +974,10 @@
     "5cada0304cfb40248599a03ba2d2f9eb": {
         "name": "tk_kauguwa",
         "data": 744885
+    },
+    "f5167115213646c28f6e34b1b1cbc06b": {
+        "name": "futar_2048",
+        "data": 727449
     },
     "0229d3b4d4d34be79d21e84738fadd68": {
         "name": "19moon",
@@ -1343,10 +1347,6 @@
         "name": "runaticitanur",
         "data": 291361
     },
-    "f5167115213646c28f6e34b1b1cbc06b": {
-        "name": "futar_2048",
-        "data": 283604
-    },
     "bfe122c357364ed89d9f0e9210ad4ea9": {
         "name": "03gunsou86",
         "data": 283597
@@ -1687,6 +1687,10 @@
         "name": "upmarinpi",
         "data": 130881
     },
+    "689a374ac4dd4e959a2e9f9c7b038ec9": {
+        "name": "kurikinntonn",
+        "data": 130096
+    },
     "af84834d3d1f4d49bf035f5b00c9f047": {
         "name": "raimu_01",
         "data": 129209
@@ -1842,10 +1846,6 @@
     "7caf3f65168a47aca3bb56517e1fcf4a": {
         "name": "bb_key_chi",
         "data": 96559
-    },
-    "689a374ac4dd4e959a2e9f9c7b038ec9": {
-        "name": "kurikinntonn",
-        "data": 95492
     },
     "f52262bcf62a48e9ad68655075047179": {
         "name": "suika537",
