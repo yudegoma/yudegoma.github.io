@@ -1,11 +1,11 @@
 {
+    "9e83f6e513a5444aadc5ba4033116a6f": {
+        "name": "last_one_minute",
+        "data": 3253875
+    },
     "ccc76784303141aeae89a6278df6e01e": {
         "name": "d_sido297",
         "data": 2089424
-    },
-    "9e83f6e513a5444aadc5ba4033116a6f": {
-        "name": "last_one_minute",
-        "data": 1848495
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
@@ -27,6 +27,10 @@
         "name": "imoso",
         "data": 345559
     },
+    "f5ba7a5084114df08b9edb0c522466a4": {
+        "name": "souta001",
+        "data": 345418
+    },
     "2073d8ec41204516a3aa185914aba363": {
         "name": "komonoking_",
         "data": 340490
@@ -39,9 +43,9 @@
         "name": "riku3330",
         "data": 253384
     },
-    "f5ba7a5084114df08b9edb0c522466a4": {
-        "name": "souta001",
-        "data": 233557
+    "72d66421d15d4584957cb956c9fd81c1": {
+        "name": "akagami0724",
+        "data": 217539
     },
     "17b95d57b6174764b1d3bec6edf698d5": {
         "name": "sonicucu",
@@ -66,10 +70,6 @@
     "98aaccd61f85444a94550f72e671fb65": {
         "name": "reiji62",
         "data": 120194
-    },
-    "72d66421d15d4584957cb956c9fd81c1": {
-        "name": "akagami0724",
-        "data": 100599
     },
     "4abd8859d1af4d3a9ce3d41b54d62d73": {
         "name": "jun_624",
@@ -111,13 +111,13 @@
         "name": "hakuryu_1113",
         "data": 17148
     },
+    "95dead0b0cf84dfb99b4a8f93e1d5a71": {
+        "name": "lloaro_box025",
+        "data": 13452
+    },
     "662c1a371f2b47dc9b7556b004cb728c": {
         "name": "karasirenkon",
         "data": 12962
-    },
-    "95dead0b0cf84dfb99b4a8f93e1d5a71": {
-        "name": "lloaro_box025",
-        "data": 12864
     },
     "5031b81665cb46a3bf63f6ec058ebf8d": {
         "name": "ryou1o",
@@ -162,6 +162,10 @@
     "3020047fea17431b903ea323516c49ec": {
         "name": "pure_apology",
         "data": 977
+    },
+    "07d41fb7f67b478db7adbf2a066dfdc1": {
+        "name": "resirika",
+        "data": 872
     },
     "af9fa387a6854fe2adf7f466531bd93b": {
         "name": "natsume5815",
