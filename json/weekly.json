@@ -471,13 +471,13 @@
         "name": "K_Lei1024",
         "data": 6339085
     },
+    "3dc5d2432c854abbaada237511b410b8": {
+        "name": "gettycraft",
+        "data": 6254126
+    },
     "a3a57d80370f49de9a8c0c04fa166c09": {
         "name": "mpn",
         "data": 6132312
-    },
-    "3dc5d2432c854abbaada237511b410b8": {
-        "name": "gettycraft",
-        "data": 6033916
     },
     "0b0bceacf4d84587b146729c75165003": {
         "name": "ponme",
@@ -647,13 +647,13 @@
         "name": "souta001",
         "data": 2531358
     },
+    "d33bd39b5d1f4da385760d6d1cdf539b": {
+        "name": "lowprofilepci",
+        "data": 2493062
+    },
     "4a32ff6486d3460f8289e4851cf8d68c": {
         "name": "tigerltiger",
         "data": 2483247
-    },
-    "d33bd39b5d1f4da385760d6d1cdf539b": {
-        "name": "lowprofilepci",
-        "data": 2440047
     },
     "1702bbb20fc344ea9e31e45613408628": {
         "name": "kedama_gen1",
@@ -995,6 +995,10 @@
         "name": "puusanbery",
         "data": 816669
     },
+    "4c633ce197174dd08b9b0aeffb835ade": {
+        "name": "minestar0078",
+        "data": 810376
+    },
     "5ea31f09924248a5a97675934a15d70d": {
         "name": "tak__e",
         "data": 809441
@@ -1011,13 +1015,13 @@
         "name": "sorakichi24",
         "data": 778931
     },
+    "b76e6c93c4754fff8d9dcae2844ae6db": {
+        "name": "teammegumin",
+        "data": 751273
+    },
     "abc80b8413384c3ba8faf1723615b3e2": {
         "name": "derigorou",
         "data": 746908
-    },
-    "4c633ce197174dd08b9b0aeffb835ade": {
-        "name": "minestar0078",
-        "data": 744693
     },
     "0e99426a41df458fba9737fa8c6d2b74": {
         "name": "PoisonAndPoison",
@@ -1294,10 +1298,6 @@
     "9da36e45b6e84f3fb51b416155cf45e0": {
         "name": "be_wada_remu",
         "data": 383129
-    },
-    "b76e6c93c4754fff8d9dcae2844ae6db": {
-        "name": "teammegumin",
-        "data": 380635
     },
     "4f8a0ca8e6984ca6844c2499be4d9bf8": {
         "name": "ichi0110",
@@ -2239,6 +2239,10 @@
         "name": "aimer1109",
         "data": 53232
     },
+    "689a374ac4dd4e959a2e9f9c7b038ec9": {
+        "name": "kurikinntonn",
+        "data": 53016
+    },
     "90956f311695440e95f086c52948a1f8": {
         "name": "seabong",
         "data": 52781
@@ -2494,10 +2498,6 @@
     "60e055dfecfe4f358230f184111808d3": {
         "name": "wWmWw",
         "data": 30786
-    },
-    "689a374ac4dd4e959a2e9f9c7b038ec9": {
-        "name": "kurikinntonn",
-        "data": 30229
     },
     "8d7989bb54dc4244bbc8371cd9d28ebc": {
         "name": "nobu20",
