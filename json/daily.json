@@ -1,7 +1,7 @@
 {
     "9c565f26ea8d4c0397311c89282ab2b9": {
         "name": "nacl2375",
-        "data": 4284586
+        "data": 4295071
     },
     "b8ab4905395b42df94f0ce8e27a79f26": {
         "name": "yaminoyami",
@@ -10,6 +10,10 @@
     "b76e6c93c4754fff8d9dcae2844ae6db": {
         "name": "teammegumin",
         "data": 2012061
+    },
+    "ff2eb52ecc9f4d1ca8af8aed30353356": {
+        "name": "hotate_2",
+        "data": 1371135
     },
     "9589b6f39cc6411296b80974de9572b8": {
         "name": "kirha1225",
@@ -39,10 +43,6 @@
         "name": "chi_kun1124",
         "data": 651265
     },
-    "ff2eb52ecc9f4d1ca8af8aed30353356": {
-        "name": "hotate_2",
-        "data": 489764
-    },
     "a547e5e166394abcbfab03be76b859ab": {
         "name": "toreizubibibi01",
         "data": 461745
@@ -53,7 +53,11 @@
     },
     "2073d8ec41204516a3aa185914aba363": {
         "name": "komonoking_",
-        "data": 261996
+        "data": 276456
+    },
+    "e05c06c70c6147c2a50957db2cfd47ad": {
+        "name": "_kokaze_nn_",
+        "data": 274255
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
@@ -65,7 +69,7 @@
     },
     "7231f717c1284fbd929ca575587ebef3": {
         "name": "speculum964",
-        "data": 185181
+        "data": 196504
     },
     "2e671b26b03f429a862670c5ca4c0bb1": {
         "name": "hagerintyo",
@@ -73,7 +77,7 @@
     },
     "f5be72aaa3d743c9ab3066375f4a7497": {
         "name": "tomo1182",
-        "data": 102849
+        "data": 143883
     },
     "3423c69ba1cd41cfa896992f9a6f5935": {
         "name": "irohachan246",
@@ -85,7 +89,7 @@
     },
     "f4fae7a009f243d6bba2c83401129179": {
         "name": "2zg",
-        "data": 80668
+        "data": 80742
     },
     "7410eaaf35e34bd7b8ed4e5e10983f2f": {
         "name": "haru524288",
@@ -131,16 +135,12 @@
         "name": "daryu_daempi",
         "data": 4332
     },
-    "e05c06c70c6147c2a50957db2cfd47ad": {
-        "name": "_kokaze_nn_",
-        "data": 1069
+    "928c9699f9844ba1967bd5294b91642e": {
+        "name": "sakuran0601",
+        "data": 1569
     },
     "1c38f7f55a1e49eba6d648fa0d6eea72": {
         "name": "ringo0617",
         "data": 992
-    },
-    "928c9699f9844ba1967bd5294b91642e": {
-        "name": "sakuran0601",
-        "data": 152
     }
 }
