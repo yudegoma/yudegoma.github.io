@@ -27,7 +27,7 @@ def update_ranking():
 
     diff_daily = sort_dict(sub_dict(result.copy(), b_daily_rank))  # 更新前との差分
     # 各ランキング更新
-    # write_file(config.daily_path, sort_dict(result))
+    write_file(config.daily_path, sort_dict(result))
     # write_file(config.weekly_path, sort_dict(add_dict(weekly_rank(), diff_daily)))
     # write_file(config.monthly_path, sort_dict(add_dict(monthly_rank(), diff_daily)))
     write_file(config.min30_path, diff_daily)
