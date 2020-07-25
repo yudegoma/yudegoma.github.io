@@ -1,7 +1,11 @@
 {
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
-        "data": 16205308
+        "data": 17667953
+    },
+    "73b41f613b2b4730b775564516101b3c": {
+        "name": "kei_3104",
+        "data": 4981140
     },
     "b9fe181bbfe14dcda1a02e0fd1e9d13d": {
         "name": "inumugi_331",
@@ -10,10 +14,6 @@
     "58fcfaf841b14a7db5061e322abbe1a7": {
         "name": "kotarou128",
         "data": 3829611
-    },
-    "73b41f613b2b4730b775564516101b3c": {
-        "name": "kei_3104",
-        "data": 3513791
     },
     "21c13f9c6eaf471c9c9db90ca14fd747": {
         "name": "kssyunoob",
@@ -29,15 +29,15 @@
     },
     "c6938a5406314201ba2309dced95d41e": {
         "name": "ko0201_",
-        "data": 1308890
-    },
-    "a7fcf65f99034121965911bc2a5ef67e": {
-        "name": "n_volvox_31",
-        "data": 947523
+        "data": 1604186
     },
     "df91875944c046398db0bc6ac76e76d1": {
         "name": "kosianchan246",
-        "data": 883964
+        "data": 1586280
+    },
+    "a7fcf65f99034121965911bc2a5ef67e": {
+        "name": "n_volvox_31",
+        "data": 1058684
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
@@ -59,13 +59,13 @@
         "name": "mekamao",
         "data": 537905
     },
+    "c099c92714f34c258a2d7aa185a2cd86": {
+        "name": "citrusunshiu",
+        "data": 497098
+    },
     "155eafe1fffa45cbb1f90bd79516737d": {
         "name": "shun2020",
         "data": 446461
-    },
-    "c099c92714f34c258a2d7aa185a2cd86": {
-        "name": "citrusunshiu",
-        "data": 360527
     },
     "0b0bceacf4d84587b146729c75165003": {
         "name": "ponme",
@@ -107,6 +107,10 @@
         "name": "nekorobi_0",
         "data": 49006
     },
+    "c5169f3f263e4bcc96e2aee61001b133": {
+        "name": "kurea32",
+        "data": 48285
+    },
     "1dba99fa4ee841dcb4d51cf319487e72": {
         "name": "green6627",
         "data": 47547
@@ -115,21 +119,17 @@
         "name": "motiolight",
         "data": 40574
     },
-    "c5169f3f263e4bcc96e2aee61001b133": {
-        "name": "kurea32",
-        "data": 36005
-    },
     "cfbdb65ccd9240019ebdc3b01cbbc08e": {
         "name": "guardian4k",
-        "data": 32519
+        "data": 38321
+    },
+    "03c2fbe359474e9fbb83d022dadbce73": {
+        "name": "zero28infi",
+        "data": 32038
     },
     "c4db08c1ebb74ab388bb1a6952f7003c": {
         "name": "daa00",
         "data": 22640
-    },
-    "03c2fbe359474e9fbb83d022dadbce73": {
-        "name": "zero28infi",
-        "data": 22625
     },
     "d7f4981baa2a4968ae1f30a5f04afcd1": {
         "name": "senrabi318",
@@ -167,6 +167,10 @@
         "name": "imo1046",
         "data": 11725
     },
+    "753159403da6479580203231a5fae1c8": {
+        "name": "aporoaporo",
+        "data": 8102
+    },
     "b7ed953aba1742a8a585f24c94071ef4": {
         "name": "eiminti",
         "data": 6990
@@ -179,9 +183,9 @@
         "name": "ben158460",
         "data": 4423
     },
-    "753159403da6479580203231a5fae1c8": {
-        "name": "aporoaporo",
-        "data": 2640
+    "06e9deb7165d49d18dcf95c13f225eaa": {
+        "name": "donkichi2525",
+        "data": 3679
     },
     "94db17cf1b47452eb7ed9e92bf36c714": {
         "name": "ichikura1010",
@@ -199,9 +203,9 @@
         "name": "comet157",
         "data": 970
     },
-    "06e9deb7165d49d18dcf95c13f225eaa": {
-        "name": "donkichi2525",
-        "data": 764
+    "b241884075fa4583855322d06f930154": {
+        "name": "keita2012",
+        "data": 901
     },
     "ca86511e08b740fcbf34c1cd29f6fcab": {
         "name": "nihonnjinn",
@@ -211,12 +215,20 @@
         "name": "amasta11051",
         "data": 104
     },
+    "95d3bcfe98014cf59425a31b1a245180": {
+        "name": "kaihassy",
+        "data": 27
+    },
     "1b427771979245ab8a9370f2a31997a4": {
         "name": "obachan_0623",
         "data": 23
     },
     "e4a19b6ec3204a0e82fa371315e58d37": {
         "name": "furirinest",
+        "data": 5
+    },
+    "bdcb75023ccd43edb6bcceb8c1e50837": {
+        "name": "hamusuta8686",
         "data": 5
     },
     "bb7e37509cd84c04af34c2658d77a2d6": {
