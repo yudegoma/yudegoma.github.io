@@ -1,7 +1,11 @@
 {
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
-        "data": 5760357
+        "data": 8259264
+    },
+    "f7b9ccfed2064fefb8aa015b5453a75e": {
+        "name": "laxy_256",
+        "data": 5206576
     },
     "81bee736e58f433ebf6808fb55f3164e": {
         "name": "imoso",
@@ -11,9 +15,9 @@
         "name": "kurea32",
         "data": 4260374
     },
-    "f7b9ccfed2064fefb8aa015b5453a75e": {
-        "name": "laxy_256",
-        "data": 3761585
+    "06889c49d5e1478babcd1a6bf27da661": {
+        "name": "windows4",
+        "data": 1775974
     },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
@@ -25,11 +29,15 @@
     },
     "04f6fb30c4324395887f5a6741839bc8": {
         "name": "nyanko_256",
-        "data": 1422057
+        "data": 1478206
     },
     "dd72f9a936444622b692549f4d118013": {
         "name": "shiro_horn",
         "data": 1079820
+    },
+    "98aaccd61f85444a94550f72e671fb65": {
+        "name": "reiji62",
+        "data": 1070511
     },
     "868afd6f47304a43bb5e3bc62a7daa63": {
         "name": "tyanimo_256",
@@ -39,17 +47,13 @@
         "name": "hirosukemaru",
         "data": 755078
     },
+    "47eee383c80746aaae00a69b77b3a16c": {
+        "name": "buu95",
+        "data": 719842
+    },
     "3dc5d2432c854abbaada237511b410b8": {
         "name": "gettycraft",
         "data": 714561
-    },
-    "06889c49d5e1478babcd1a6bf27da661": {
-        "name": "windows4",
-        "data": 708809
-    },
-    "47eee383c80746aaae00a69b77b3a16c": {
-        "name": "buu95",
-        "data": 675927
     },
     "a22bcc0299aa480092e0bb2804364c06": {
         "name": "mosha44",
@@ -57,23 +61,27 @@
     },
     "58fcfaf841b14a7db5061e322abbe1a7": {
         "name": "kotarou128",
-        "data": 521159
+        "data": 523367
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
         "data": 456872
     },
+    "e6f4fd84877740b6843bfe2a3f07f8d9": {
+        "name": "hiroooo1997",
+        "data": 391888
+    },
     "21c13f9c6eaf471c9c9db90ca14fd747": {
         "name": "kssyun_2260",
         "data": 380886
     },
+    "9eb55077a9c14a88a22be6651fabcc6e": {
+        "name": "kazutatruth3zk",
+        "data": 356587
+    },
     "4aa1dbaf33aa453e85c97021c319e9d6": {
         "name": "minihina",
         "data": 282116
-    },
-    "e6f4fd84877740b6843bfe2a3f07f8d9": {
-        "name": "hiroooo1997",
-        "data": 235839
     },
     "72af1d5727e5499d861edcc7671b6bd1": {
         "name": "kenntiku900",
@@ -83,9 +91,9 @@
         "name": "no08r2",
         "data": 106133
     },
-    "9eb55077a9c14a88a22be6651fabcc6e": {
-        "name": "kazutatruth3zk",
-        "data": 97239
+    "6d5ed478a03e41debc12cf8f0779f4c9": {
+        "name": "type_g1521",
+        "data": 102656
     },
     "5e2d027293cf41e0a5dcc10641d6b5c2": {
         "name": "12756e",
@@ -109,7 +117,7 @@
     },
     "dabfc0c148554229801e425a5ccb120b": {
         "name": "fonesy_x",
-        "data": 15894
+        "data": 18158
     },
     "7deb318ae8d745cc877c0f681869292f": {
         "name": "penguin_ball",
@@ -125,7 +133,7 @@
     },
     "6efea63d7522477e939463140de94b55": {
         "name": "maron_berry",
-        "data": 10223
+        "data": 10305
     },
     "6af81e15002043ae9637922d67a788f3": {
         "name": "aketchan",
@@ -155,10 +163,6 @@
         "name": "youyamaki",
         "data": 6263
     },
-    "6d5ed478a03e41debc12cf8f0779f4c9": {
-        "name": "type_g1521",
-        "data": 4437
-    },
     "f4f164dec2654b4eb7929c941d00f2c0": {
         "name": "yk82",
         "data": 2999
@@ -167,13 +171,13 @@
         "name": "mikken39",
         "data": 274
     },
+    "10cf3d97a6aa4ef08c27a917e5cb59d8": {
+        "name": "chorocra_19800",
+        "data": 136
+    },
     "ca86511e08b740fcbf34c1cd29f6fcab": {
         "name": "nihonnjinn",
         "data": 124
-    },
-    "10cf3d97a6aa4ef08c27a917e5cb59d8": {
-        "name": "chorocra_19800",
-        "data": 106
     },
     "b084ced5ca1149609200f8cd70a584d4": {
         "name": "tirimos",
