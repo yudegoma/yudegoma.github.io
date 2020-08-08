@@ -13,11 +13,15 @@
     },
     "c45690b65c3d4fd1abdeac8961085a86": {
         "name": "mizumochi0",
-        "data": 3081949
+        "data": 3439465
     },
     "3dc5d2432c854abbaada237511b410b8": {
         "name": "gettycraft",
         "data": 2549504
+    },
+    "455788169dab49fcbef00525e0a57289": {
+        "name": "ranzamu",
+        "data": 2418233
     },
     "47eee383c80746aaae00a69b77b3a16c": {
         "name": "buu95",
@@ -27,17 +31,13 @@
         "name": "imoso",
         "data": 1832365
     },
-    "455788169dab49fcbef00525e0a57289": {
-        "name": "ranzamu",
-        "data": 1796627
-    },
     "98aaccd61f85444a94550f72e671fb65": {
         "name": "reiji62",
         "data": 1596583
     },
     "4aa1dbaf33aa453e85c97021c319e9d6": {
         "name": "minihina",
-        "data": 1488182
+        "data": 1594016
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
@@ -47,13 +47,17 @@
         "name": "tyanimo",
         "data": 1054280
     },
+    "ad768e69c83b4c0bbda71ded8822a24b": {
+        "name": "iroha_256",
+        "data": 1016951
+    },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
         "data": 922240
     },
-    "ad768e69c83b4c0bbda71ded8822a24b": {
-        "name": "iroha_256",
-        "data": 763436
+    "c6938a5406314201ba2309dced95d41e": {
+        "name": "ko0201_",
+        "data": 727233
     },
     "21c13f9c6eaf471c9c9db90ca14fd747": {
         "name": "kssyun_2260",
@@ -83,6 +87,10 @@
         "name": "tk_kauguwa",
         "data": 337770
     },
+    "3423c69ba1cd41cfa896992f9a6f5935": {
+        "name": "irohachan246",
+        "data": 305452
+    },
     "72b2779026714a2ca1d7ef7c44ce3c4e": {
         "name": "kokkuru334",
         "data": 288137
@@ -90,10 +98,6 @@
     "00d4c66650364ded87593e250a4e4902": {
         "name": "styfish",
         "data": 243709
-    },
-    "c6938a5406314201ba2309dced95d41e": {
-        "name": "ko0201_",
-        "data": 234813
     },
     "1739ff028ed944f8a19013844c454333": {
         "name": "saw_1199",
@@ -103,13 +107,17 @@
         "name": "waratrb",
         "data": 210873
     },
-    "3423c69ba1cd41cfa896992f9a6f5935": {
-        "name": "irohachan246",
-        "data": 207483
-    },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
         "data": 190505
+    },
+    "b8b46ee2cd3c4aa4b35a34bbd74c4cbf": {
+        "name": "tomotaby",
+        "data": 123972
+    },
+    "58fcfaf841b14a7db5061e322abbe1a7": {
+        "name": "kotarou128",
+        "data": 116962
     },
     "db87cc801578488d9a1392d82b9205fe": {
         "name": "daryu_daempi",
@@ -121,7 +129,7 @@
     },
     "438283fb1fa7468398099fbda46e553b": {
         "name": "harukin001",
-        "data": 34184
+        "data": 40132
     },
     "39b67acee462423b8cbc64805c4238fa": {
         "name": "kaikoba",
@@ -147,17 +155,21 @@
         "name": "takenokokun",
         "data": 13205
     },
+    "1f48ea4d0ab0459695e1310f38b68eb8": {
+        "name": "herro256",
+        "data": 10907
+    },
     "be7b6cff41c548968866f62178082583": {
         "name": "eruna20070413",
         "data": 10407
     },
-    "1f48ea4d0ab0459695e1310f38b68eb8": {
-        "name": "herro256",
-        "data": 8076
-    },
     "06889c49d5e1478babcd1a6bf27da661": {
         "name": "windows4",
         "data": 6013
+    },
+    "9f773c624e3f43e299884fa82e2b201b": {
+        "name": "shirokura0",
+        "data": 6003
     },
     "34abd084457c47f7bf956956e9bbd621": {
         "name": "naskon_ll",
@@ -187,10 +199,6 @@
         "name": "katamaki",
         "data": 1580
     },
-    "9f773c624e3f43e299884fa82e2b201b": {
-        "name": "shirokura0",
-        "data": 1173
-    },
     "502a7ee6157a42b48bffc691091ce24c": {
         "name": "kousakuzr2",
         "data": 1000
@@ -199,8 +207,16 @@
         "name": "kana_kana_kanak",
         "data": 959
     },
+    "b6231f1f7d8c49d2a1cf9cc411d1472a": {
+        "name": "motiolight",
+        "data": 944
+    },
     "10cf3d97a6aa4ef08c27a917e5cb59d8": {
         "name": "chorocra_19800",
         "data": 128
+    },
+    "69ae04fd892a4326aa3e65b3449e007a": {
+        "name": "to_ya_0809",
+        "data": 26
     }
 }
