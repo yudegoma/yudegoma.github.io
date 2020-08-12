@@ -1,31 +1,31 @@
 {
     "21c13f9c6eaf471c9c9db90ca14fd747": {
         "name": "kssyun_2260",
-        "data": 5165752
+        "data": 7115098
     },
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
-        "data": 4751751
+        "data": 6164015
     },
     "9c565f26ea8d4c0397311c89282ab2b9": {
         "name": "nacl2375",
-        "data": 2463112
+        "data": 3500159
     },
     "51e872492b7a4ac58518fe62b4e75657": {
         "name": "k_lei1024",
-        "data": 1795619
+        "data": 1883348
     },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
         "data": 1730515
     },
+    "04f6fb30c4324395887f5a6741839bc8": {
+        "name": "nyanko_256",
+        "data": 1450270
+    },
     "88a095f113ab49fcb016e780af1ea8aa": {
         "name": "nephole",
         "data": 1268162
-    },
-    "04f6fb30c4324395887f5a6741839bc8": {
-        "name": "nyanko_256",
-        "data": 1130866
     },
     "20fd72b04835450487e7f1cb34b84447": {
         "name": "arwing_2718",
@@ -43,17 +43,17 @@
         "name": "papiyonnn",
         "data": 398577
     },
+    "72b2779026714a2ca1d7ef7c44ce3c4e": {
+        "name": "kokkuru334",
+        "data": 337672
+    },
     "65be274611274f639664792ad933d830": {
         "name": "twitch_hikakin",
         "data": 312424
     },
-    "72b2779026714a2ca1d7ef7c44ce3c4e": {
-        "name": "kokkuru334",
-        "data": 183638
-    },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
-        "data": 123378
+        "data": 212036
     },
     "72b5f471777e45afa81baa16294e5389": {
         "name": "doldin0403",
@@ -65,7 +65,7 @@
     },
     "5e71d982c3c845e9b9eb17b8596f5e56": {
         "name": "zari128",
-        "data": 87998
+        "data": 87999
     },
     "98624cdd35714eb4bb34b255fa6606c5": {
         "name": "viokun",
@@ -77,7 +77,7 @@
     },
     "fa1bf8104fed4f149bf3719932a6c045": {
         "name": "michiyama_288",
-        "data": 16953
+        "data": 21132
     },
     "10cf3d97a6aa4ef08c27a917e5cb59d8": {
         "name": "chorocra_19800",
@@ -126,5 +126,9 @@
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "xxchorocraxx",
         "data": 9
+    },
+    "0f5849636a92403b89cfc7ed4a3b2842": {
+        "name": "lack_of_sanity",
+        "data": 1
     }
 }
