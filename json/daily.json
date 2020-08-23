@@ -1,15 +1,23 @@
 {
+    "c5169f3f263e4bcc96e2aee61001b133": {
+        "name": "kurea32",
+        "data": 6313692
+    },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
         "data": 4922606
     },
-    "c5169f3f263e4bcc96e2aee61001b133": {
-        "name": "kurea32",
-        "data": 4723534
-    },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
         "data": 1307620
+    },
+    "4af632c192164e5e80113db7df3ab89b": {
+        "name": "rirame",
+        "data": 507942
+    },
+    "0e366a1a1c7848849b3ef0113970481c": {
+        "name": "r_emerald",
+        "data": 448919
     },
     "7c72de8b09b141b3be038f0bfd0f11b8": {
         "name": "tukiyo1511",
@@ -22,10 +30,6 @@
     "15e5f5a74c804d0a83f733d03d6f1ed4": {
         "name": "naru0202",
         "data": 204293
-    },
-    "4af632c192164e5e80113db7df3ab89b": {
-        "name": "rirame",
-        "data": 133885
     },
     "6bd19b2165d94f2da49bb9a172f4c904": {
         "name": "x_redmoon_x",
@@ -41,19 +45,23 @@
     },
     "b5ba9da98ff345ffb546c19297101b4f": {
         "name": "otsukimidango",
-        "data": 31286
+        "data": 46244
+    },
+    "a40f6b882f534b1a98d7014a75d01789": {
+        "name": "lemon12300",
+        "data": 32492
     },
     "10cf3d97a6aa4ef08c27a917e5cb59d8": {
         "name": "chorocra_19800",
         "data": 28173
     },
+    "986ad9e45e2142d18e1ed2c97ce57934": {
+        "name": "07131225",
+        "data": 23065
+    },
     "3db2c278eef6440c991314d667365a16": {
         "name": "yamakei1213",
         "data": 21322
-    },
-    "986ad9e45e2142d18e1ed2c97ce57934": {
-        "name": "07131225",
-        "data": 18795
     },
     "d510416fcfc742529e13e4ac63b233cd": {
         "name": "rittsu087",
@@ -62,10 +70,6 @@
     "5d8dc99ab8a44ce2b23edb14c8939037": {
         "name": "yuuyaa",
         "data": 12638
-    },
-    "a40f6b882f534b1a98d7014a75d01789": {
-        "name": "lemon12300",
-        "data": 7407
     },
     "ccc76784303141aeae89a6278df6e01e": {
         "name": "d_sido297",
@@ -79,13 +83,13 @@
         "name": "sorayakiniku",
         "data": 4738
     },
+    "5efe380e05b6410b96eb4df7320e8c3e": {
+        "name": "yoan_2907",
+        "data": 3007
+    },
     "c53a4d2dd7fe4a65bd3c804bdc6d1870": {
         "name": "kitsune_e",
         "data": 2791
-    },
-    "5efe380e05b6410b96eb4df7320e8c3e": {
-        "name": "yoan_2907",
-        "data": 1739
     },
     "39f162e2e06042398ca3ff61c17df419": {
         "name": "sora0147",
