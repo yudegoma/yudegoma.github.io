@@ -1,11 +1,11 @@
 {
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
-        "data": 3860895
+        "data": 4268767
     },
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
-        "data": 2133325
+        "data": 2500707
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
@@ -13,7 +13,7 @@
     },
     "ccc76784303141aeae89a6278df6e01e": {
         "name": "d_sido297",
-        "data": 813604
+        "data": 815170
     },
     "1739ff028ed944f8a19013844c454333": {
         "name": "saw_1199",
@@ -23,13 +23,13 @@
         "name": "suu_usamimi_",
         "data": 476144
     },
+    "97697818306e48c4a10a150cf1494d61": {
+        "name": "shinononotabane",
+        "data": 433556
+    },
     "58fcfaf841b14a7db5061e322abbe1a7": {
         "name": "kotarou128",
         "data": 398419
-    },
-    "97697818306e48c4a10a150cf1494d61": {
-        "name": "shinononotabane",
-        "data": 358913
     },
     "f63f13d9ea1d43f9a0c746bb9445625d": {
         "name": "shibatanienn_ts",
@@ -59,9 +59,17 @@
         "name": "reiji62",
         "data": 132884
     },
+    "e90b326cf1484400ac22b95a50331d30": {
+        "name": "robottomankun",
+        "data": 107003
+    },
     "22f61979d33046ba9727c71e57bc6ba8": {
         "name": "siy_haco",
         "data": 63425
+    },
+    "73b41f613b2b4730b775564516101b3c": {
+        "name": "kei_3104",
+        "data": 63037
     },
     "3dc5d2432c854abbaada237511b410b8": {
         "name": "gettycraft",
@@ -71,9 +79,17 @@
         "name": "chubasan",
         "data": 45476
     },
-    "e90b326cf1484400ac22b95a50331d30": {
-        "name": "robottomankun",
-        "data": 44119
+    "fadcd71cb01b458682306cc0378216db": {
+        "name": "nanashiro5027",
+        "data": 33769
+    },
+    "32fa8f3309464936819152baef899a89": {
+        "name": "aconitum_2715",
+        "data": 31377
+    },
+    "45b2190c5b5b4f0bba50228562ddf6f0": {
+        "name": "asobi_tai",
+        "data": 25281
     },
     "c0d4b5366e73445abed3fc27e036f693": {
         "name": "liunix",
@@ -135,10 +151,6 @@
         "name": "leaf_93",
         "data": 2814
     },
-    "73b41f613b2b4730b775564516101b3c": {
-        "name": "kei_3104",
-        "data": 1537
-    },
     "6ca59c412aaa4df9ad8811730e643644": {
         "name": "kamamu_xxxxx6268",
         "data": 1341
@@ -182,5 +194,9 @@
     "00704c47ba2640339bddcf71b5a397a0": {
         "name": "cocyuyu",
         "data": 80
+    },
+    "b5212f4c3a404adb9113c3a733112aa7": {
+        "name": "aconitum_27l5",
+        "data": 1
     }
 }
