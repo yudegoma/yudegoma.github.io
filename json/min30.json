@@ -1,66 +1,42 @@
 {
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
-        "data": 2496238
-    },
-    "3dc5d2432c854abbaada237511b410b8": {
-        "name": "gettycraft",
-        "data": 842584
+        "data": 1085074
     },
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
-        "data": 770369
+        "data": 321196
+    },
+    "3dc5d2432c854abbaada237511b410b8": {
+        "name": "gettycraft",
+        "data": 208388
     },
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "chorocra_sub",
-        "data": 705781
-    },
-    "f7b9ccfed2064fefb8aa015b5453a75e": {
-        "name": "laxy_256",
-        "data": 573816
-    },
-    "21c13f9c6eaf471c9c9db90ca14fd747": {
-        "name": "kssyun_2260",
-        "data": 295593
-    },
-    "07376d04597048d590983da21f6f047e": {
-        "name": "horn_shiro",
-        "data": 115023
-    },
-    "ff2eb52ecc9f4d1ca8af8aed30353356": {
-        "name": "hotate_2",
-        "data": 110542
-    },
-    "45e39fd8adf74ea29fa369355e5cf3eb": {
-        "name": "nanaoh_2014",
-        "data": 49702
-    },
-    "87cff69db07442899b395fc00ffe7dd0": {
-        "name": "kouen154",
-        "data": 22060
-    },
-    "00704c47ba2640339bddcf71b5a397a0": {
-        "name": "cocyuyu",
-        "data": 16906
-    },
-    "d510416fcfc742529e13e4ac63b233cd": {
-        "name": "rittsu087",
-        "data": 15761
-    },
-    "78b29598f4414dc1950d04f696deee76": {
-        "name": "tjkawa",
-        "data": 8022
-    },
-    "34abd084457c47f7bf956956e9bbd621": {
-        "name": "naskon_ll",
-        "data": 4773
-    },
-    "4d10ccddec0b478191adaa157cb4cc34": {
-        "name": "iessa123",
-        "data": 86
+        "data": 111411
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
-        "data": 33
+        "data": 52673
+    },
+    "45e39fd8adf74ea29fa369355e5cf3eb": {
+        "name": "nanaoh_2014",
+        "data": 23088
+    },
+    "87cff69db07442899b395fc00ffe7dd0": {
+        "name": "kouen154",
+        "data": 11836
+    },
+    "4d10ccddec0b478191adaa157cb4cc34": {
+        "name": "iessa123",
+        "data": 2369
+    },
+    "00704c47ba2640339bddcf71b5a397a0": {
+        "name": "cocyuyu",
+        "data": 987
+    },
+    "34abd084457c47f7bf956956e9bbd621": {
+        "name": "naskon_ll",
+        "data": 82
     }
 }
