@@ -43,6 +43,10 @@
         "name": "riezo",
         "data": 335673
     },
+    "8cf8899b35ff4db48ab2dcde5a703f9b": {
+        "name": "zakosimewatata",
+        "data": 321551
+    },
     "45e39fd8adf74ea29fa369355e5cf3eb": {
         "name": "nanaoh_2014",
         "data": 220121
@@ -50,10 +54,6 @@
     "6ee92d6cd3ce4963976c8ac1a25842d9": {
         "name": "__eleanor",
         "data": 217250
-    },
-    "8cf8899b35ff4db48ab2dcde5a703f9b": {
-        "name": "zakosimewatata",
-        "data": 215112
     },
     "45b2190c5b5b4f0bba50228562ddf6f0": {
         "name": "asobi_tai",
@@ -91,13 +91,17 @@
         "name": "rittsu087",
         "data": 40475
     },
+    "9fabd1787dd146e7a6b587a1698ade78": {
+        "name": "mekoa",
+        "data": 18724
+    },
+    "6cb7a1bc6b9b49d397d0ae2c92a30299": {
+        "name": "hakkyou_splritz",
+        "data": 17048
+    },
     "c2ced50640094792a53774553df3a595": {
         "name": "6k_kouki",
         "data": 16285
-    },
-    "9fabd1787dd146e7a6b587a1698ade78": {
-        "name": "mekoa",
-        "data": 11595
     },
     "78b29598f4414dc1950d04f696deee76": {
         "name": "tjkawa",
@@ -114,10 +118,6 @@
     "34abd084457c47f7bf956956e9bbd621": {
         "name": "naskon_ll",
         "data": 4855
-    },
-    "6cb7a1bc6b9b49d397d0ae2c92a30299": {
-        "name": "hakkyou_splritz",
-        "data": 4598
     },
     "3d3afd495c2e4b09a68ededb4bc98516": {
         "name": "aether052",
@@ -150,5 +150,9 @@
     "9e98db9256594b3ab1ed8efbcbafbcfc": {
         "name": "ohanny",
         "data": 3
+    },
+    "0f98f711657e42d8a0dd87776c4790c5": {
+        "name": "tetsusan",
+        "data": 2
     }
 }
