@@ -23,13 +23,13 @@
         "name": "kouta6230",
         "data": 2057837
     },
+    "73b41f613b2b4730b775564516101b3c": {
+        "name": "kei_3104",
+        "data": 1808623
+    },
     "c6938a5406314201ba2309dced95d41e": {
         "name": "ko0201_",
         "data": 1601304
-    },
-    "73b41f613b2b4730b775564516101b3c": {
-        "name": "kei_3104",
-        "data": 1550525
     },
     "0f98f711657e42d8a0dd87776c4790c5": {
         "name": "tetsusan",
@@ -39,13 +39,21 @@
         "name": "laxy_256",
         "data": 833186
     },
-    "b9318905867a46d4bf96ee34d011c3de": {
-        "name": "bosstt",
-        "data": 498105
+    "ff2eb52ecc9f4d1ca8af8aed30353356": {
+        "name": "hotate_2",
+        "data": 696172
     },
     "777db319f91a4085a37a77c82262ab26": {
         "name": "ryudrg",
-        "data": 488213
+        "data": 571070
+    },
+    "3a5c0c7806c54e93958f92eb34a13c08": {
+        "name": "kiichi_go",
+        "data": 501218
+    },
+    "b9318905867a46d4bf96ee34d011c3de": {
+        "name": "bosstt",
+        "data": 498105
     },
     "21c13f9c6eaf471c9c9db90ca14fd747": {
         "name": "kssyun_2260",
@@ -58,14 +66,6 @@
     "8cf8899b35ff4db48ab2dcde5a703f9b": {
         "name": "zakosimewatata",
         "data": 448324
-    },
-    "ff2eb52ecc9f4d1ca8af8aed30353356": {
-        "name": "hotate_2",
-        "data": 415551
-    },
-    "3a5c0c7806c54e93958f92eb34a13c08": {
-        "name": "kiichi_go",
-        "data": 342422
     },
     "ab31fd40d9484779aeeb0c9a977904d0": {
         "name": "riezo",
@@ -97,7 +97,7 @@
     },
     "d0ee00614bd04720af4617e49c465259": {
         "name": "bacarcano",
-        "data": 111270
+        "data": 119714
     },
     "4b465bb8f98e4648b7c1d6cb5eb6ccf3": {
         "name": "ibuchan_",
@@ -107,13 +107,17 @@
         "name": "cocyuyu",
         "data": 87633
     },
+    "9fabd1787dd146e7a6b587a1698ade78": {
+        "name": "mekoa",
+        "data": 85530
+    },
     "5e2d027293cf41e0a5dcc10641d6b5c2": {
         "name": "12756e",
         "data": 81000
     },
-    "9fabd1787dd146e7a6b587a1698ade78": {
-        "name": "mekoa",
-        "data": 79873
+    "82ce738c14954ecabd92e7a043691865": {
+        "name": "huku",
+        "data": 73869
     },
     "87cff69db07442899b395fc00ffe7dd0": {
         "name": "kouen154",
@@ -149,7 +153,7 @@
     },
     "9795706d54c74f318aa3b2edf8a9b532": {
         "name": "kuroto_dan",
-        "data": 5931
+        "data": 6302
     },
     "34abd084457c47f7bf956956e9bbd621": {
         "name": "naskon_ll",
