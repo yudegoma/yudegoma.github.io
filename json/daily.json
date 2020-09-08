@@ -13,11 +13,11 @@
     },
     "73b41f613b2b4730b775564516101b3c": {
         "name": "kei_3104",
-        "data": 3010471
+        "data": 3067843
     },
     "c6938a5406314201ba2309dced95d41e": {
         "name": "ko0201_",
-        "data": 2363925
+        "data": 2885255
     },
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "chorocra_sub",
@@ -35,25 +35,25 @@
         "name": "tetsusan",
         "data": 1023366
     },
-    "777db319f91a4085a37a77c82262ab26": {
-        "name": "ryudrg",
-        "data": 919187
-    },
     "ff2eb52ecc9f4d1ca8af8aed30353356": {
         "name": "hotate_2",
-        "data": 887342
+        "data": 957288
+    },
+    "777db319f91a4085a37a77c82262ab26": {
+        "name": "ryudrg",
+        "data": 955508
     },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
         "data": 833186
     },
+    "82ce738c14954ecabd92e7a043691865": {
+        "name": "huku",
+        "data": 772544
+    },
     "3a5c0c7806c54e93958f92eb34a13c08": {
         "name": "kiichi_go",
         "data": 670078
-    },
-    "82ce738c14954ecabd92e7a043691865": {
-        "name": "huku",
-        "data": 607618
     },
     "b9318905867a46d4bf96ee34d011c3de": {
         "name": "bosstt",
@@ -125,7 +125,7 @@
     },
     "6cb7a1bc6b9b49d397d0ae2c92a30299": {
         "name": "hakkyou_splritz",
-        "data": 46934
+        "data": 66789
     },
     "d510416fcfc742529e13e4ac63b233cd": {
         "name": "rittsu087",
@@ -137,7 +137,11 @@
     },
     "9795706d54c74f318aa3b2edf8a9b532": {
         "name": "kuroto_dan",
-        "data": 10208
+        "data": 12335
+    },
+    "2353ffcf7cf441f092c96f69debcaddd": {
+        "name": "enon_player2750",
+        "data": 10179
     },
     "95dead0b0cf84dfb99b4a8f93e1d5a71": {
         "name": "lloaro_box",
@@ -163,10 +167,6 @@
         "name": "aether052",
         "data": 4122
     },
-    "2353ffcf7cf441f092c96f69debcaddd": {
-        "name": "enon_player2750",
-        "data": 3871
-    },
     "4d10ccddec0b478191adaa157cb4cc34": {
         "name": "iessa123",
         "data": 2455
@@ -190,6 +190,10 @@
     "f63f13d9ea1d43f9a0c746bb9445625d": {
         "name": "shibatanienn_ts",
         "data": 115
+    },
+    "6dcb5ee943a14652a2b6fd27b3d598e0": {
+        "name": "firewater0712",
+        "data": 52
     },
     "9e98db9256594b3ab1ed8efbcbafbcfc": {
         "name": "ohanny",
