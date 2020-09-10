@@ -1,23 +1,23 @@
 {
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
-        "data": 12084792
+        "data": 12945125
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
-        "data": 3685648
+        "data": 4310058
     },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
         "data": 3373890
     },
+    "438ed7bfcbcf40d9a672aacc2868e267": {
+        "name": "chorocra",
+        "data": 3266352
+    },
     "82ce738c14954ecabd92e7a043691865": {
         "name": "huku",
         "data": 2993407
-    },
-    "438ed7bfcbcf40d9a672aacc2868e267": {
-        "name": "chorocra",
-        "data": 2511425
     },
     "ccc76784303141aeae89a6278df6e01e": {
         "name": "d_sido297",
@@ -43,6 +43,10 @@
         "name": "hayaojapan",
         "data": 584844
     },
+    "abe87a2c982f417fac4197dd081077ee": {
+        "name": "ava1341893",
+        "data": 489622
+    },
     "b76e6c93c4754fff8d9dcae2844ae6db": {
         "name": "teammegumin",
         "data": 393858
@@ -59,9 +63,9 @@
         "name": "aquashooting",
         "data": 272933
     },
-    "abe87a2c982f417fac4197dd081077ee": {
-        "name": "ava1341893",
-        "data": 220048
+    "777db319f91a4085a37a77c82262ab26": {
+        "name": "ryudrg",
+        "data": 212255
     },
     "d0ee00614bd04720af4617e49c465259": {
         "name": "bacarcano",
@@ -89,11 +93,15 @@
     },
     "9795706d54c74f318aa3b2edf8a9b532": {
         "name": "kuroto_dan",
-        "data": 99006
+        "data": 117692
     },
     "f5ba7a5084114df08b9edb0c522466a4": {
         "name": "souta001",
         "data": 93351
+    },
+    "bf2f6aba78eb48d9827f99ef7a9a7758": {
+        "name": "akki0222",
+        "data": 87978
     },
     "eef2e85d50bc4d16a8407e61d78b91a8": {
         "name": "astro_256_pien",
@@ -107,33 +115,37 @@
         "name": "tsuba_chan_0531",
         "data": 52017
     },
-    "bf2f6aba78eb48d9827f99ef7a9a7758": {
-        "name": "akki0222",
-        "data": 45165
+    "10cf3d97a6aa4ef08c27a917e5cb59d8": {
+        "name": "chorocra_19800",
+        "data": 51839
+    },
+    "5876da2fb7eb45499f24d13b162efac2": {
+        "name": "motineko1023",
+        "data": 46536
+    },
+    "8207e812f50941db9c197b25ad0eac4b": {
+        "name": "nomrice122",
+        "data": 46079
     },
     "95dead0b0cf84dfb99b4a8f93e1d5a71": {
         "name": "lloaro_box",
         "data": 35780
     },
+    "91bbcc41405f4e739a6fd3fe7d0bc12c": {
+        "name": "sakutsuki12",
+        "data": 35093
+    },
+    "b937a02de08e43e3a5a20ccdf0ef21c7": {
+        "name": "takumuzaka46",
+        "data": 34012
+    },
     "379954831ff84b39908e3e607a2bc7e6": {
         "name": "tarou_512",
         "data": 32801
     },
-    "b937a02de08e43e3a5a20ccdf0ef21c7": {
-        "name": "takumuzaka46",
-        "data": 32281
-    },
-    "91bbcc41405f4e739a6fd3fe7d0bc12c": {
-        "name": "sakutsuki12",
-        "data": 27788
-    },
     "59f8c679d690441aa46d3c3e0425eb6f": {
         "name": "ktheemperor",
         "data": 21083
-    },
-    "777db319f91a4085a37a77c82262ab26": {
-        "name": "ryudrg",
-        "data": 18250
     },
     "a4a4e94e92754825984ca7d2b2597da2": {
         "name": "kurashisu7373",
@@ -223,6 +235,10 @@
         "name": "kebinn11",
         "data": 1383
     },
+    "eb5a45877ad242599594cfca12347ca8": {
+        "name": "tappi46",
+        "data": 1149
+    },
     "9ea23911ea4c401dbf1b0d415d2417e2": {
         "name": "osarukun",
         "data": 1074
@@ -231,9 +247,13 @@
         "name": "call56",
         "data": 800
     },
-    "eb5a45877ad242599594cfca12347ca8": {
-        "name": "tappi46",
-        "data": 629
+    "967714d975d04e4f82733d3439c337ea": {
+        "name": "ks_04",
+        "data": 505
+    },
+    "8e42b6e861284ef7a56ac7b83d84008e": {
+        "name": "mursn",
+        "data": 398
     },
     "97e749092fdd4739b4f2c73b61b61ee6": {
         "name": "kaz_03",
@@ -242,10 +262,6 @@
     "b1d95490f35a4c0d8d98773a160c4286": {
         "name": "hikka_0217",
         "data": 180
-    },
-    "8207e812f50941db9c197b25ad0eac4b": {
-        "name": "nomrice122",
-        "data": 66
     },
     "32fa8f3309464936819152baef899a89": {
         "name": "aconitum_2715",
