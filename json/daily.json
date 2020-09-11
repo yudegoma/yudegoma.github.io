@@ -1,7 +1,7 @@
 {
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
-        "data": 12755198
+        "data": 13743364
     },
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
@@ -13,7 +13,7 @@
     },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
-        "data": 4264729
+        "data": 4915053
     },
     "82ce738c14954ecabd92e7a043691865": {
         "name": "huku",
@@ -25,19 +25,19 @@
     },
     "10cf3d97a6aa4ef08c27a917e5cb59d8": {
         "name": "chorocra_19800",
-        "data": 2919406
+        "data": 3000339
     },
     "b9318905867a46d4bf96ee34d011c3de": {
         "name": "bosstt",
-        "data": 1684695
+        "data": 1954892
     },
     "6710b2b1ac4d47acb56eb8ed5a9a4246": {
         "name": "taichi1230",
-        "data": 1422942
+        "data": 1521904
     },
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "chorocra_sub",
-        "data": 992604
+        "data": 1160404
     },
     "f4b84fdabf344fe7b5fd3ac39a435f34": {
         "name": "_kakke_",
@@ -85,23 +85,27 @@
     },
     "9795706d54c74f318aa3b2edf8a9b532": {
         "name": "kuroto_dan",
-        "data": 103603
+        "data": 117001
     },
     "8e42b6e861284ef7a56ac7b83d84008e": {
         "name": "mursn",
-        "data": 92258
+        "data": 101440
+    },
+    "49806ee76560406187f19e592c84a7ab": {
+        "name": "tyuusonzi",
+        "data": 86913
     },
     "d510416fcfc742529e13e4ac63b233cd": {
         "name": "rittsu087",
         "data": 64968
     },
-    "49806ee76560406187f19e592c84a7ab": {
-        "name": "tyuusonzi",
-        "data": 57108
-    },
     "87cff69db07442899b395fc00ffe7dd0": {
         "name": "kouen154",
         "data": 51997
+    },
+    "91bbcc41405f4e739a6fd3fe7d0bc12c": {
+        "name": "sakutsuki12",
+        "data": 48410
     },
     "32145950be9d4f0d8b9d64872f2d36d4": {
         "name": "hunter_kaz",
@@ -110,10 +114,6 @@
     "eef2e85d50bc4d16a8407e61d78b91a8": {
         "name": "astro_256_pien",
         "data": 44081
-    },
-    "91bbcc41405f4e739a6fd3fe7d0bc12c": {
-        "name": "sakutsuki12",
-        "data": 44041
     },
     "1014d91ce37a4a84b1ce91244d057b7f": {
         "name": "makura5_9",
@@ -133,11 +133,11 @@
     },
     "77c6ebc37d0f4761951f732c7fc57896": {
         "name": "m4tsuy0ic4t",
-        "data": 25087
+        "data": 27352
     },
     "f901754b1ab54c28a90ffb8eae64faca": {
         "name": "susumu_t",
-        "data": 23840
+        "data": 23841
     },
     "a4a4e94e92754825984ca7d2b2597da2": {
         "name": "kurashisu7373",
@@ -146,6 +146,14 @@
     "d11e53f21abd4c859cb64ca5e4d42380": {
         "name": "core0584",
         "data": 20601
+    },
+    "b9bbf160293840c59fb065f6698b6cde": {
+        "name": "crow_0127",
+        "data": 12166
+    },
+    "710a2cdb38f7467e916abb78f7ad7c85": {
+        "name": "_hiryu_",
+        "data": 12008
     },
     "17d70ee0eb294c9a898da2a33dd77536": {
         "name": "ninidai",
@@ -163,13 +171,21 @@
         "name": "__eleanor",
         "data": 7094
     },
-    "710a2cdb38f7467e916abb78f7ad7c85": {
-        "name": "_hiryu_",
-        "data": 6832
+    "ef2c681ca79b47458d7985991978ccba": {
+        "name": "hero_shota",
+        "data": 4991
     },
     "95dead0b0cf84dfb99b4a8f93e1d5a71": {
         "name": "lloaro_box",
         "data": 4582
+    },
+    "d2ff96689c354cd283c9209ebc1bbb76": {
+        "name": "various_colorsmc",
+        "data": 3964
+    },
+    "cc9fa17fbe4a451ebefbbc678d4d33c2": {
+        "name": "norabou",
+        "data": 3855
     },
     "d5dce2daec734dfca856e07f48d827ab": {
         "name": "meiplu_skyblock",
@@ -182,10 +198,6 @@
     "74e3c5a3fae4417b92f6f549d1af38c5": {
         "name": "sayashi",
         "data": 2917
-    },
-    "cc9fa17fbe4a451ebefbbc678d4d33c2": {
-        "name": "norabou",
-        "data": 1981
     },
     "542cd5624c684dfe8b2e5dd95d6eb5fb": {
         "name": "suke_toudara",
@@ -201,7 +213,7 @@
     },
     "193b51bd9037429585340cc3c1552624": {
         "name": "kawasiroharetti",
-        "data": 44
+        "data": 663
     },
     "9173ba2859c7462c8024b35f2d5ff9c7": {
         "name": "bloodmagic",
