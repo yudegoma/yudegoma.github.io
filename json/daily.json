@@ -1,23 +1,31 @@
 {
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
-        "data": 4092717
+        "data": 6470153
     },
     "3dc5d2432c854abbaada237511b410b8": {
         "name": "gettycraft",
         "data": 1683652
     },
+    "c9b33d69e07e44228f042f1eeeae00ea": {
+        "name": "kumajyaga",
+        "data": 1382091
+    },
+    "c5169f3f263e4bcc96e2aee61001b133": {
+        "name": "kurea32",
+        "data": 1337904
+    },
     "a5ae8d0f330a4402b4b70e8b4a3ef2a6": {
         "name": "suu_usamimi_",
         "data": 1117755
     },
-    "c9b33d69e07e44228f042f1eeeae00ea": {
-        "name": "kumajyaga",
-        "data": 1113691
-    },
     "9cec894e9ae34a2597c5b7a6c55c1376": {
         "name": "kaerusan82433413",
         "data": 1108417
+    },
+    "5b690768fe6c4061b8e385b2f281202f": {
+        "name": "winningpost",
+        "data": 1086935
     },
     "10cf3d97a6aa4ef08c27a917e5cb59d8": {
         "name": "chorocra_19800",
@@ -27,49 +35,49 @@
         "name": "laxy_256",
         "data": 948755
     },
-    "c5169f3f263e4bcc96e2aee61001b133": {
-        "name": "kurea32",
-        "data": 912586
-    },
-    "5b690768fe6c4061b8e385b2f281202f": {
-        "name": "winningpost",
-        "data": 807193
-    },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
         "data": 648034
     },
+    "5b36f78760fc4edf91c418d1a9082009": {
+        "name": "mintears",
+        "data": 564124
+    },
+    "b9318905867a46d4bf96ee34d011c3de": {
+        "name": "bosstt",
+        "data": 440198
+    },
     "04f6fb30c4324395887f5a6741839bc8": {
         "name": "nyanko_256",
-        "data": 396315
+        "data": 399567
     },
     "dd72f9a936444622b692549f4d118013": {
         "name": "shiro_horn",
         "data": 350363
     },
-    "5b36f78760fc4edf91c418d1a9082009": {
-        "name": "mintears",
-        "data": 327175
+    "5b7a638288014f4fb107530a79e9d5ae": {
+        "name": "fy123",
+        "data": 291370
     },
     "9173ba2859c7462c8024b35f2d5ff9c7": {
         "name": "bloodmagic",
         "data": 286038
     },
-    "5b7a638288014f4fb107530a79e9d5ae": {
-        "name": "fy123",
-        "data": 161626
-    },
     "780c4c7d779940e8acfa5cb27e61eb48": {
         "name": "dark_error256",
-        "data": 73348
+        "data": 108551
     },
     "28dacc74382848a995bc527762c9d3ac": {
         "name": "mumei_800",
-        "data": 62206
+        "data": 74799
     },
     "632fdc5256e144c0b7888f8c2224932c": {
         "name": "soruido",
-        "data": 26401
+        "data": 28093
+    },
+    "4bdc1780f3234a0a98c91b96fe72e950": {
+        "name": "linx916",
+        "data": 27929
     },
     "c6938a5406314201ba2309dced95d41e": {
         "name": "ko0201_",
@@ -79,13 +87,17 @@
         "name": "norxler",
         "data": 16637
     },
-    "4bdc1780f3234a0a98c91b96fe72e950": {
-        "name": "linx916",
-        "data": 15880
+    "8e265aa7ad7140e9a9a70de046ed70db": {
+        "name": "mekamao",
+        "data": 15359
     },
     "a59a1c4f03ad468cb9c0ce57b7506d41": {
         "name": "omega_white_o",
         "data": 14445
+    },
+    "f901754b1ab54c28a90ffb8eae64faca": {
+        "name": "susumu_t",
+        "data": 9931
     },
     "1622ff352cfe456886a5ca0ed978203a": {
         "name": "ms2337kaito",
@@ -95,17 +107,13 @@
         "name": "suke_toudara",
         "data": 9239
     },
-    "f901754b1ab54c28a90ffb8eae64faca": {
-        "name": "susumu_t",
-        "data": 7937
+    "0c6888aa602c4d66aa7940b8524a7fd7": {
+        "name": "minaduki_627",
+        "data": 6754
     },
     "e3e323540abc4af8b0f3010c5ae670cb": {
         "name": "noxyxy",
         "data": 6580
-    },
-    "0c6888aa602c4d66aa7940b8524a7fd7": {
-        "name": "minaduki_627",
-        "data": 3940
     },
     "bb991c6baafb405cb2af57cd5828962d": {
         "name": "sqmeru",
@@ -117,7 +125,7 @@
     },
     "d056bf123c344599847db638e65734b4": {
         "name": "rayfps_eg",
-        "data": 1916
+        "data": 2572
     },
     "f50c4109231b43adbf355729a747158c": {
         "name": "yucohanhan",
