@@ -1,15 +1,19 @@
 {
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
-        "data": 7803808
+        "data": 9949480
     },
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
-        "data": 5698739
+        "data": 7824092
     },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
         "data": 1729828
+    },
+    "6710b2b1ac4d47acb56eb8ed5a9a4246": {
+        "name": "taichi1230",
+        "data": 1349130
     },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
@@ -18,10 +22,6 @@
     "3dc5d2432c854abbaada237511b410b8": {
         "name": "gettycraft",
         "data": 1047605
-    },
-    "6710b2b1ac4d47acb56eb8ed5a9a4246": {
-        "name": "taichi1230",
-        "data": 821958
     },
     "c9b33d69e07e44228f042f1eeeae00ea": {
         "name": "kumajyaga",
@@ -43,9 +43,17 @@
         "name": "__eleanor",
         "data": 155724
     },
+    "5b36f78760fc4edf91c418d1a9082009": {
+        "name": "mintears",
+        "data": 106338
+    },
     "d7edcb8b73d24ba988324ebbd69c795e": {
         "name": "xraysafy",
         "data": 64464
+    },
+    "699d002cb4a7497dbafb6ce917c4e025": {
+        "name": "404error_raven",
+        "data": 22271
     },
     "9c565f26ea8d4c0397311c89282ab2b9": {
         "name": "nacl2375",
@@ -59,10 +67,6 @@
         "name": "megune1412",
         "data": 12490
     },
-    "699d002cb4a7497dbafb6ce917c4e025": {
-        "name": "404error_raven",
-        "data": 11858
-    },
     "b937a02de08e43e3a5a20ccdf0ef21c7": {
         "name": "takumuzaka46",
         "data": 8223
@@ -70,6 +74,10 @@
     "650e5873517d4959836f640162947978": {
         "name": "cumike",
         "data": 7400
+    },
+    "2736ced9618e4ca7812285b6eedda412": {
+        "name": "massan_jp",
+        "data": 6906
     },
     "0c09657ec3ef4e6d85ec6ac4ca7c86a5": {
         "name": "mattyakun2525",
@@ -82,10 +90,6 @@
     "bb991c6baafb405cb2af57cd5828962d": {
         "name": "vicky_92",
         "data": 4068
-    },
-    "2736ced9618e4ca7812285b6eedda412": {
-        "name": "massan_jp",
-        "data": 3794
     },
     "542cd5624c684dfe8b2e5dd95d6eb5fb": {
         "name": "suke_toudara",
