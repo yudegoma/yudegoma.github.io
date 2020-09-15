@@ -1,7 +1,7 @@
 {
     "9fd28c217274446fa425348e81165b27": {
         "name": "00_apple",
-        "data": 2685247
+        "data": 4018860
     },
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
@@ -27,6 +27,10 @@
         "name": "jank_mc",
         "data": 101513
     },
+    "ec5d79df693f4535a6d444e1a473cfbd": {
+        "name": "refrain2416256",
+        "data": 93033
+    },
     "c2ced50640094792a53774553df3a595": {
         "name": "6k_kouki",
         "data": 39283
@@ -34,6 +38,10 @@
     "f901754b1ab54c28a90ffb8eae64faca": {
         "name": "susumu_t",
         "data": 33890
+    },
+    "b2eb2226c68f40029a4a3cfde31fb768": {
+        "name": "ippannjinn972",
+        "data": 29251
     },
     "4273135716d3469f99c971a191331489": {
         "name": "_nodahn_",
@@ -50,5 +58,13 @@
     "d24567c8cda4446d84ccf25cf468ca55": {
         "name": "shoshomama",
         "data": 6205
+    },
+    "5cada0304cfb40248599a03ba2d2f9eb": {
+        "name": "tk_kauguwa",
+        "data": 1078
+    },
+    "952a6f65d4fe45fba6e13f11722814df": {
+        "name": "ryu111",
+        "data": 57
     }
 }
