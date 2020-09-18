@@ -13,7 +13,7 @@
     },
     "9da36e45b6e84f3fb51b416155cf45e0": {
         "name": "be_wada_remu",
-        "data": 2175758
+        "data": 2183214
     },
     "3226d27ca29541c79efdaf3dbf45c107": {
         "name": "minus3141",
@@ -35,13 +35,13 @@
         "name": "rittsu087",
         "data": 289075
     },
+    "cc4be53d862c4846a384b99189f886a7": {
+        "name": "mgg_games",
+        "data": 255749
+    },
     "ef2c681ca79b47458d7985991978ccba": {
         "name": "hero_shota",
         "data": 249881
-    },
-    "cc4be53d862c4846a384b99189f886a7": {
-        "name": "mgg_games",
-        "data": 230156
     },
     "6ee92d6cd3ce4963976c8ac1a25842d9": {
         "name": "__eleanor",
@@ -77,7 +77,7 @@
     },
     "9ae6c8fb77d84e04b47a1b1955605eee": {
         "name": "got_cruiser",
-        "data": 55903
+        "data": 67877
     },
     "f901754b1ab54c28a90ffb8eae64faca": {
         "name": "susumu_t",
@@ -87,9 +87,17 @@
         "name": "1000panmen",
         "data": 52648
     },
+    "f5ba7a5084114df08b9edb0c522466a4": {
+        "name": "souta001",
+        "data": 49969
+    },
     "009215d9fa4a458f887d4e4165ce3c1c": {
         "name": "ririeru3710",
         "data": 49589
+    },
+    "3d3afd495c2e4b09a68ededb4bc98516": {
+        "name": "aether052",
+        "data": 32702
     },
     "625ee5ecbc9d4a51b73374c916aa16e7": {
         "name": "sunakaze_q",
@@ -111,6 +119,10 @@
         "name": "yuki310hp",
         "data": 18177
     },
+    "e7abc24e9bfb4828b90afd3d0fd71e5f": {
+        "name": "yukimichandao",
+        "data": 14914
+    },
     "0c6888aa602c4d66aa7940b8524a7fd7": {
         "name": "minaduki_627",
         "data": 13773
@@ -119,10 +131,6 @@
         "name": "gtseichi_server",
         "data": 11659
     },
-    "e7abc24e9bfb4828b90afd3d0fd71e5f": {
-        "name": "yukimichandao",
-        "data": 11650
-    },
     "9c565f26ea8d4c0397311c89282ab2b9": {
         "name": "nacl2375",
         "data": 11039
@@ -130,10 +138,6 @@
     "5668d19bca8a4b81b6d5e16eb5810da2": {
         "name": "arahibi_256",
         "data": 9933
-    },
-    "3d3afd495c2e4b09a68ededb4bc98516": {
-        "name": "aether052",
-        "data": 7886
     },
     "162c0819e2cb44d0b1ade1de4893469b": {
         "name": "asuto_o",
