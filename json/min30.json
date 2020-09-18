@@ -1,86 +1,50 @@
 {
     "eff2121da96e4c47852a2164ed39dbf5": {
         "name": "kouta6230",
-        "data": 2282244
+        "data": 1089225
     },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
-        "data": 1136228
-    },
-    "3dc5d2432c854abbaada237511b410b8": {
-        "name": "gettycraft",
-        "data": 1016858
+        "data": 643016
     },
     "9da36e45b6e84f3fb51b416155cf45e0": {
         "name": "be_wada_remu",
-        "data": 729224
+        "data": 331152
     },
     "3226d27ca29541c79efdaf3dbf45c107": {
         "name": "minus3141",
-        "data": 485861
-    },
-    "1df65befcc4f4d4aaa7a699baeb6d7b5": {
-        "name": "dr_leaf",
-        "data": 67107
-    },
-    "50f8863a099640668d051eaf9fe8f2ed": {
-        "name": "1000panmen",
-        "data": 37598
+        "data": 33973
     },
     "04f6fb30c4324395887f5a6741839bc8": {
         "name": "nyanko_256",
-        "data": 35530
-    },
-    "67b3ea183ac649259a8b540053df3ba9": {
-        "name": "jhinfizz",
-        "data": 35469
-    },
-    "cc4be53d862c4846a384b99189f886a7": {
-        "name": "mgg_games",
-        "data": 33525
-    },
-    "91bbcc41405f4e739a6fd3fe7d0bc12c": {
-        "name": "sakutsuki12",
-        "data": 20348
-    },
-    "9ae6c8fb77d84e04b47a1b1955605eee": {
-        "name": "got_cruiser",
-        "data": 12951
-    },
-    "b937a02de08e43e3a5a20ccdf0ef21c7": {
-        "name": "takumuzaka46",
-        "data": 11778
-    },
-    "f901754b1ab54c28a90ffb8eae64faca": {
-        "name": "susumu_t",
-        "data": 10842
-    },
-    "8ad0540b636848478520eba69ea8f11c": {
-        "name": "megune1412",
-        "data": 9499
-    },
-    "5668d19bca8a4b81b6d5e16eb5810da2": {
-        "name": "arahibi_256",
-        "data": 8184
-    },
-    "162c0819e2cb44d0b1ade1de4893469b": {
-        "name": "asuto_o",
-        "data": 6612
-    },
-    "0c6888aa602c4d66aa7940b8524a7fd7": {
-        "name": "minaduki_627",
-        "data": 4651
-    },
-    "ffcc673fb554403aa743bd7140725e12": {
-        "name": "yuki310hp",
-        "data": 3377
-    },
-    "ec5d79df693f4535a6d444e1a473cfbd": {
-        "name": "refrain2416256",
-        "data": 2412
+        "data": 21160
     },
     "625ee5ecbc9d4a51b73374c916aa16e7": {
         "name": "sunakaze_q",
-        "data": 289
+        "data": 11340
+    },
+    "1df65befcc4f4d4aaa7a699baeb6d7b5": {
+        "name": "dr_leaf",
+        "data": 11233
+    },
+    "9ae6c8fb77d84e04b47a1b1955605eee": {
+        "name": "got_cruiser",
+        "data": 10815
+    },
+    "f901754b1ab54c28a90ffb8eae64faca": {
+        "name": "susumu_t",
+        "data": 9914
+    },
+    "cc4be53d862c4846a384b99189f886a7": {
+        "name": "mgg_games",
+        "data": 6882
+    },
+    "ffcc673fb554403aa743bd7140725e12": {
+        "name": "yuki310hp",
+        "data": 4150
+    },
+    "0c6888aa602c4d66aa7940b8524a7fd7": {
+        "name": "minaduki_627",
+        "data": 4027
     }
 }
