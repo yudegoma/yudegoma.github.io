@@ -1,11 +1,11 @@
 {
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
-        "data": 9706355
+        "data": 10741771
     },
     "91c5a4c733f344d5996556b0abfa4264": {
         "name": "ilohas0096",
-        "data": 6350674
+        "data": 7180407
     },
     "3dc5d2432c854abbaada237511b410b8": {
         "name": "gettycraft",
@@ -43,6 +43,10 @@
         "name": "cumike",
         "data": 551868
     },
+    "04f6fb30c4324395887f5a6741839bc8": {
+        "name": "nyanko_256",
+        "data": 538815
+    },
     "5b36f78760fc4edf91c418d1a9082009": {
         "name": "mintears",
         "data": 462412
@@ -62,10 +66,6 @@
     "9da36e45b6e84f3fb51b416155cf45e0": {
         "name": "be_wada_remu",
         "data": 300610
-    },
-    "04f6fb30c4324395887f5a6741839bc8": {
-        "name": "nyanko_256",
-        "data": 268945
     },
     "508b932f341d4697adb8c1de5014b789": {
         "name": "uchinonyanko",
@@ -89,7 +89,7 @@
     },
     "c548741fdca2407095b187f29270fcea": {
         "name": "mi_mu",
-        "data": 108932
+        "data": 129808
     },
     "cc4be53d862c4846a384b99189f886a7": {
         "name": "mgg_games",
@@ -133,7 +133,11 @@
     },
     "2736ced9618e4ca7812285b6eedda412": {
         "name": "massan_jp",
-        "data": 32166
+        "data": 34984
+    },
+    "9ae6c8fb77d84e04b47a1b1955605eee": {
+        "name": "got_cruiser",
+        "data": 33555
     },
     "542cd5624c684dfe8b2e5dd95d6eb5fb": {
         "name": "suke_toudara",
@@ -175,10 +179,6 @@
         "name": "chorocra_19800",
         "data": 14410
     },
-    "9ae6c8fb77d84e04b47a1b1955605eee": {
-        "name": "got_cruiser",
-        "data": 11997
-    },
     "30964d3b3a294e819d4d773d4113c6e7": {
         "name": "phoneix1192",
         "data": 9967
@@ -207,12 +207,12 @@
         "name": "tetehu",
         "data": 1314
     },
+    "69ae04fd892a4326aa3e65b3449e007a": {
+        "name": "to_ya_0809",
+        "data": 8
+    },
     "dbccee02e4854964a449e453f819ed69": {
         "name": "plastics777",
         "data": 7
-    },
-    "69ae04fd892a4326aa3e65b3449e007a": {
-        "name": "to_ya_0809",
-        "data": 6
     }
 }
