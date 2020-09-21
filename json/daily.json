@@ -5,15 +5,15 @@
     },
     "4273135716d3469f99c971a191331489": {
         "name": "_nodahn_",
-        "data": 2676332
+        "data": 3701786
+    },
+    "c6938a5406314201ba2309dced95d41e": {
+        "name": "ko0201_",
+        "data": 2008240
     },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
         "data": 1772001
-    },
-    "c6938a5406314201ba2309dced95d41e": {
-        "name": "ko0201_",
-        "data": 1634836
     },
     "d7edcb8b73d24ba988324ebbd69c795e": {
         "name": "xraysafy",
@@ -30,6 +30,10 @@
     "6d83f9b8512e48259ecfd15c13bccafb": {
         "name": "watatuki_renko",
         "data": 855050
+    },
+    "5954a72117b849e9ba598c0a79a01b01": {
+        "name": "leeklover",
+        "data": 810505
     },
     "3226d27ca29541c79efdaf3dbf45c107": {
         "name": "minus3141",
@@ -67,10 +71,6 @@
         "name": "ruin1213",
         "data": 142689
     },
-    "5954a72117b849e9ba598c0a79a01b01": {
-        "name": "leeklover",
-        "data": 137926
-    },
     "15c2d7c592c24520a27196100af057dd": {
         "name": "disneyresidents",
         "data": 129940
@@ -101,11 +101,11 @@
     },
     "2736ced9618e4ca7812285b6eedda412": {
         "name": "massan_jp",
-        "data": 56115
+        "data": 60085
     },
     "0b7d985162e644ceb2c6f9e1d253f533": {
         "name": "xxyoyoyokagaxx",
-        "data": 53655
+        "data": 58619
     },
     "0cf941a09df24a5b9a9c1d180cbdbf05": {
         "name": "g_gomi163",
@@ -151,6 +151,10 @@
         "name": "amayadori1932",
         "data": 10090
     },
+    "51f73fa06ed947b08f22698d5d119428": {
+        "name": "loxe_asti",
+        "data": 9292
+    },
     "0544ea36e2604de7944b050a5eeb6639": {
         "name": "kobutaemon",
         "data": 6417
@@ -158,10 +162,6 @@
     "3a741dad62b34b258789e4b5c63bc48d": {
         "name": "y_kura",
         "data": 6388
-    },
-    "51f73fa06ed947b08f22698d5d119428": {
-        "name": "loxe_asti",
-        "data": 5979
     },
     "58fcfaf841b14a7db5061e322abbe1a7": {
         "name": "kotarou128",
@@ -182,5 +182,9 @@
     "8e6abff4352446ffa1a41a909a6643b0": {
         "name": "akira_melon",
         "data": 140
+    },
+    "0b4fe31e841742eda92bb8d439bc5efc": {
+        "name": "midokuribotowner",
+        "data": 42
     }
 }
