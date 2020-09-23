@@ -1,4 +1,8 @@
 {
+    "c5169f3f263e4bcc96e2aee61001b133": {
+        "name": "kurea32",
+        "data": 1992291
+    },
     "73b41f613b2b4730b775564516101b3c": {
         "name": "kei_3104",
         "data": 1914218
@@ -39,10 +43,6 @@
         "name": "humiijp",
         "data": 652342
     },
-    "c5169f3f263e4bcc96e2aee61001b133": {
-        "name": "kurea32",
-        "data": 570567
-    },
     "d0265943f43049e3a8d2532bccd35099": {
         "name": "danimaru",
         "data": 419256
@@ -63,6 +63,10 @@
         "name": "takumuzaka46",
         "data": 296819
     },
+    "17d70ee0eb294c9a898da2a33dd77536": {
+        "name": "ninidai",
+        "data": 240426
+    },
     "eef2e85d50bc4d16a8407e61d78b91a8": {
         "name": "astro_256_pien",
         "data": 218789
@@ -75,10 +79,6 @@
         "name": "sora19975",
         "data": 143803
     },
-    "17d70ee0eb294c9a898da2a33dd77536": {
-        "name": "ninidai",
-        "data": 138092
-    },
     "3d3afd495c2e4b09a68ededb4bc98516": {
         "name": "aether052",
         "data": 114365
@@ -86,6 +86,10 @@
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "chorocra_sub",
         "data": 81483
+    },
+    "cc9fa17fbe4a451ebefbbc678d4d33c2": {
+        "name": "norabou",
+        "data": 70522
     },
     "3a741dad62b34b258789e4b5c63bc48d": {
         "name": "y_kura",
@@ -99,10 +103,6 @@
         "name": "inudaisuki_4649",
         "data": 50553
     },
-    "cc9fa17fbe4a451ebefbbc678d4d33c2": {
-        "name": "norabou",
-        "data": 44098
-    },
     "b9318905867a46d4bf96ee34d011c3de": {
         "name": "bosstt",
         "data": 43611
@@ -110,6 +110,10 @@
     "d510416fcfc742529e13e4ac63b233cd": {
         "name": "rittsu087",
         "data": 40304
+    },
+    "d2ff96689c354cd283c9209ebc1bbb76": {
+        "name": "various_colorsmc",
+        "data": 39812
     },
     "f63f13d9ea1d43f9a0c746bb9445625d": {
         "name": "shibatanienn_ts",
@@ -134,6 +138,10 @@
     "e32e2a98cce246a9a824a4fb37199931": {
         "name": "tetehu",
         "data": 11713
+    },
+    "b09efabde92241d49cecc020c22913d5": {
+        "name": "rokusyou_222",
+        "data": 8706
     },
     "3d813d168a0f49e8b18de7e0f7812aba": {
         "name": "hairanndo",
@@ -162,10 +170,6 @@
     "b1ea1c1cb0994ffea3ece7c934cc18b3": {
         "name": "yagogokoro_eirin",
         "data": 4735
-    },
-    "b09efabde92241d49cecc020c22913d5": {
-        "name": "rokusyou_222",
-        "data": 4601
     },
     "bdcb75023ccd43edb6bcceb8c1e50837": {
         "name": "hamusuta8686",
