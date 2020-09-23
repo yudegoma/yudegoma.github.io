@@ -1,7 +1,7 @@
 {
     "c5169f3f263e4bcc96e2aee61001b133": {
         "name": "kurea32",
-        "data": 3579508
+        "data": 4156654
     },
     "73b41f613b2b4730b775564516101b3c": {
         "name": "kei_3104",
@@ -17,31 +17,35 @@
     },
     "be9a6a585c0745a0908f0c39602706ce": {
         "name": "ben158460",
-        "data": 1078939
+        "data": 1175980
     },
     "438ed7bfcbcf40d9a672aacc2868e267": {
         "name": "chorocra",
         "data": 1013776
     },
+    "ae02b421c0184425b13f9ad7d9f84304": {
+        "name": "humiijp",
+        "data": 938421
+    },
     "5b36f78760fc4edf91c418d1a9082009": {
         "name": "mintears",
         "data": 908715
+    },
+    "3dc5d2432c854abbaada237511b410b8": {
+        "name": "gettycraft",
+        "data": 826093
     },
     "47eee383c80746aaae00a69b77b3a16c": {
         "name": "buu_sakurasawa",
         "data": 782168
     },
+    "9589b6f39cc6411296b80974de9572b8": {
+        "name": "kirha1225",
+        "data": 764822
+    },
     "4273135716d3469f99c971a191331489": {
         "name": "_nodahn_",
         "data": 760667
-    },
-    "3dc5d2432c854abbaada237511b410b8": {
-        "name": "gettycraft",
-        "data": 752737
-    },
-    "ae02b421c0184425b13f9ad7d9f84304": {
-        "name": "humiijp",
-        "data": 652342
     },
     "d0265943f43049e3a8d2532bccd35099": {
         "name": "danimaru",
@@ -55,13 +59,13 @@
         "name": "ayusanman",
         "data": 392060
     },
+    "17d70ee0eb294c9a898da2a33dd77536": {
+        "name": "ninidai",
+        "data": 354221
+    },
     "3226d27ca29541c79efdaf3dbf45c107": {
         "name": "minus3141",
         "data": 322171
-    },
-    "17d70ee0eb294c9a898da2a33dd77536": {
-        "name": "ninidai",
-        "data": 321379
     },
     "b937a02de08e43e3a5a20ccdf0ef21c7": {
         "name": "takumuzaka46",
@@ -79,6 +83,10 @@
         "name": "sora19975",
         "data": 143803
     },
+    "cc9fa17fbe4a451ebefbbc678d4d33c2": {
+        "name": "norabou",
+        "data": 141449
+    },
     "2353ffcf7cf441f092c96f69debcaddd": {
         "name": "enon2750",
         "data": 119834
@@ -86,10 +94,6 @@
     "3d3afd495c2e4b09a68ededb4bc98516": {
         "name": "aether052",
         "data": 114365
-    },
-    "cc9fa17fbe4a451ebefbbc678d4d33c2": {
-        "name": "norabou",
-        "data": 102560
     },
     "cbc0126bdad2428a81514c6206eda306": {
         "name": "chorocra_sub",
@@ -119,10 +123,6 @@
         "name": "various_colorsmc",
         "data": 39812
     },
-    "9589b6f39cc6411296b80974de9572b8": {
-        "name": "kirha1225",
-        "data": 36253
-    },
     "f63f13d9ea1d43f9a0c746bb9445625d": {
         "name": "shibatanienn_ts",
         "data": 32044
@@ -135,25 +135,25 @@
         "name": "sakutsuki12",
         "data": 27456
     },
+    "b09efabde92241d49cecc020c22913d5": {
+        "name": "rokusyou_222",
+        "data": 21947
+    },
     "5b7a638288014f4fb107530a79e9d5ae": {
         "name": "fy123",
         "data": 20919
-    },
-    "b09efabde92241d49cecc020c22913d5": {
-        "name": "rokusyou_222",
-        "data": 19572
     },
     "cb2400a8774949d48c1e16be7d8c55f7": {
         "name": "owannkurage",
         "data": 13775
     },
+    "3d813d168a0f49e8b18de7e0f7812aba": {
+        "name": "hairanndo",
+        "data": 12206
+    },
     "e32e2a98cce246a9a824a4fb37199931": {
         "name": "tetehu",
         "data": 11713
-    },
-    "3d813d168a0f49e8b18de7e0f7812aba": {
-        "name": "hairanndo",
-        "data": 9481
     },
     "c9f5e785507f4386b1384b462b7ea720": {
         "name": "oinaari",
@@ -191,13 +191,17 @@
         "name": "chikaho",
         "data": 1470
     },
+    "eb1c2c380a98471a8bd68a9f9a6e88d4": {
+        "name": "tjurnacke",
+        "data": 1443
+    },
     "67b3ea183ac649259a8b540053df3ba9": {
         "name": "jhinfizz",
         "data": 1271
     },
-    "eb1c2c380a98471a8bd68a9f9a6e88d4": {
-        "name": "tjurnacke",
-        "data": 435
+    "161f1a2bc6e7404f82acc42445a5da0e": {
+        "name": "katudon_pig7",
+        "data": 424
     },
     "b346ca8dfa6d4968865dffdf1106f0f7": {
         "name": "kyisland",
