@@ -49,7 +49,7 @@
     },
     "2736ced9618e4ca7812285b6eedda412": {
         "name": "massan_jp",
-        "data": 70745
+        "data": 76832
     },
     "91bbcc41405f4e739a6fd3fe7d0bc12c": {
         "name": "sakutsuki12",
@@ -85,7 +85,11 @@
     },
     "dc396e8b970043aa9362cd606ba31291": {
         "name": "michi1072",
-        "data": 5958
+        "data": 6186
+    },
+    "a188f6bf8a38448483d5d5de7e8d05a3": {
+        "name": "star_light256",
+        "data": 3592
     },
     "082bae1f01b94294b8e0057308f43034": {
         "name": "sarukun777",
@@ -98,9 +102,5 @@
     "b63a71f3ce2f43739cf187e8077d1064": {
         "name": "baremetal",
         "data": 1368
-    },
-    "a188f6bf8a38448483d5d5de7e8d05a3": {
-        "name": "star_light256",
-        "data": 326
     }
 }
