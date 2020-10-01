@@ -1,11 +1,11 @@
 {
+    "c5169f3f263e4bcc96e2aee61001b133": {
+        "name": "kurea32",
+        "data": 19309581
+    },
     "91c5a4c733f344d5996556b0abfa4264": {
         "name": "ilohas0096",
         "data": 17672630
-    },
-    "c5169f3f263e4bcc96e2aee61001b133": {
-        "name": "kurea32",
-        "data": 17670742
     },
     "f7b9ccfed2064fefb8aa015b5453a75e": {
         "name": "laxy_256",
@@ -21,7 +21,7 @@
     },
     "47eee383c80746aaae00a69b77b3a16c": {
         "name": "buu_sakurasawa",
-        "data": 4819668
+        "data": 4820392
     },
     "73b41f613b2b4730b775564516101b3c": {
         "name": "kei_3104",
@@ -51,6 +51,10 @@
         "name": "soda_205",
         "data": 716355
     },
+    "3a5c0c7806c54e93958f92eb34a13c08": {
+        "name": "kiichi_go",
+        "data": 679808
+    },
     "f63f13d9ea1d43f9a0c746bb9445625d": {
         "name": "shibatanienn_ts",
         "data": 656712
@@ -59,9 +63,9 @@
         "name": "saw_1199",
         "data": 656701
     },
-    "3a5c0c7806c54e93958f92eb34a13c08": {
-        "name": "kiichi_go",
-        "data": 555211
+    "ba9d2d943c4a4c4a8f49f8ed0620b59a": {
+        "name": "kyabetsupamm",
+        "data": 594738
     },
     "91bbcc41405f4e739a6fd3fe7d0bc12c": {
         "name": "sakutsuki12",
@@ -75,13 +79,29 @@
         "name": "guilty_",
         "data": 460851
     },
+    "3226d27ca29541c79efdaf3dbf45c107": {
+        "name": "minus3141",
+        "data": 400659
+    },
     "424509930ae6487e876c618bc3788f5d": {
         "name": "lppannjinn972",
         "data": 395710
     },
+    "a36bcba77cd8419895eaa4f55312de3f": {
+        "name": "tomotty4240",
+        "data": 388299
+    },
+    "bab130b922474b18967a0867edcccf69": {
+        "name": "wanwanwan_o",
+        "data": 370676
+    },
+    "438ed7bfcbcf40d9a672aacc2868e267": {
+        "name": "chorocra",
+        "data": 335301
+    },
     "3aca08a0b70244e3b40704c38b04c3ad": {
         "name": "issy855302",
-        "data": 255553
+        "data": 310652
     },
     "a6e163d0485e4f3a86e496c6c59c2814": {
         "name": "oyatu",
@@ -99,33 +119,37 @@
         "name": "ninidai",
         "data": 188545
     },
-    "3226d27ca29541c79efdaf3dbf45c107": {
-        "name": "minus3141",
-        "data": 171020
-    },
     "e90b326cf1484400ac22b95a50331d30": {
         "name": "robottomankun",
         "data": 151829
     },
-    "ba9d2d943c4a4c4a8f49f8ed0620b59a": {
-        "name": "kyabetsupamm",
-        "data": 115758
+    "1df65befcc4f4d4aaa7a699baeb6d7b5": {
+        "name": "dr_leaf",
+        "data": 138094
+    },
+    "45b2190c5b5b4f0bba50228562ddf6f0": {
+        "name": "asobi_tai",
+        "data": 122788
     },
     "ab2e6765b6da41d7bffaea4d8e52e0fe": {
         "name": "miyanoshin2355",
         "data": 114231
     },
-    "1df65befcc4f4d4aaa7a699baeb6d7b5": {
-        "name": "dr_leaf",
-        "data": 93329
+    "e4dd5e3ede7e483d8944aac6567530b0": {
+        "name": "sy_2726",
+        "data": 106007
+    },
+    "c099c92714f34c258a2d7aa185a2cd86": {
+        "name": "citrusunshiu",
+        "data": 87247
+    },
+    "ef8b8f1656e745998ce2a0e9c6fd5d5e": {
+        "name": "kirha1226",
+        "data": 85463
     },
     "9ae6c8fb77d84e04b47a1b1955605eee": {
         "name": "got_cruiser",
         "data": 73264
-    },
-    "ef8b8f1656e745998ce2a0e9c6fd5d5e": {
-        "name": "kirha1226",
-        "data": 73019
     },
     "abe87a2c982f417fac4197dd081077ee": {
         "name": "ava1341893",
@@ -159,6 +183,10 @@
         "name": "jyu_zou",
         "data": 33464
     },
+    "a0874294e1a249d0b02002df507e7d18": {
+        "name": "kinoko_2k",
+        "data": 32956
+    },
     "fedcc6b9f6a3422ebd89c88032af44ef": {
         "name": "narinarinarinari",
         "data": 25395
@@ -187,13 +215,21 @@
         "name": "kg_kairi",
         "data": 11885
     },
+    "4061eb7bae2b4d98939264b251b73ce8": {
+        "name": "takumuchan",
+        "data": 8653
+    },
+    "6b994c22244f43a482920945481712dd": {
+        "name": "taiyo___",
+        "data": 8316
+    },
     "5cada0304cfb40248599a03ba2d2f9eb": {
         "name": "tk_kauguwa",
         "data": 7642
     },
-    "6b994c22244f43a482920945481712dd": {
-        "name": "taiyo___",
-        "data": 6269
+    "02eee281947e4a9aabb912db3b9128f6": {
+        "name": "dappun",
+        "data": 6490
     },
     "58ccc7f2855245cc9f2ecce16dda38be": {
         "name": "jumoku",
@@ -203,13 +239,13 @@
         "name": "phoneix1192",
         "data": 4575
     },
+    "5668d19bca8a4b81b6d5e16eb5810da2": {
+        "name": "arahibi_256",
+        "data": 4361
+    },
     "eb098bcc15b84ed9949e9a0f3124821b": {
         "name": "risuki234",
         "data": 3846
-    },
-    "5668d19bca8a4b81b6d5e16eb5810da2": {
-        "name": "arahibi_256",
-        "data": 1826
     },
     "d1ba8e45e48d4f19a8255b613e89b38b": {
         "name": "hbk_astn",
@@ -222,10 +258,6 @@
     "dab04cac6f984ac0bda22fcabb16ba02": {
         "name": "kuroneko0963",
         "data": 467
-    },
-    "45b2190c5b5b4f0bba50228562ddf6f0": {
-        "name": "asobi_tai",
-        "data": 344
     },
     "4b89072868314601b1c278993f47309b": {
         "name": "yomasa",
